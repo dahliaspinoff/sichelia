@@ -29,7 +29,7 @@ B. D. Harper, K. L. Norman, Improving user satisfaction: The questionnaire for u
 satisfaction version 5.5, in: Proceedings of the 1st annual mid-Atlantic human factors conference,
 volume 224, 1993, p. 228.
 
-A. M. Lund, Measuring usability with the use questionnaire12, Usability interface 8 (2001) 3–6
+A. M. Lund, Measuring usability with the use questionnaire, Usability interface 8 (2001) 3–6
 
 # Goal
 
@@ -37,6 +37,6 @@ The main goal of the survey was to identify usability and user experience issues
 
 - Interface intuitiveness
 - Navigation consistency
- -Feature clarity
+- Feature clarity
 _______________________ 
 Collected responses were analyzed to detect recurring patterns and areas for improvement.
