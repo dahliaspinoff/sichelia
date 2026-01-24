@@ -1,46 +1,45 @@
 # Sichelia
 
-**Sichelia** è un progetto volto alla valorizzazione e interoperabilità dei dati culturali siciliani, attraverso la **conversione**, l'**arricchimento semantico** e la **trasformazione in formato NGSI-LD**, lo standard per la rappresentazione di entità nel contesto delle **Smart Cities** e dell’**Internet of Things**.
+Sichelia is a project aimed at enhancing and enabling interoperability of Sicilian cultural data through conversion, semantic enrichment, and transformation into NGSI-LD format, the standard for representing entities in the context of Smart Cities and the Internet of Things.
 
-## Obiettivi del progetto
+## Project Objectives
 
-- **Recupero e conversione** degli Open Data pubblicati sul portale open data della Regione Siciliana.
-- **Arricchimento semantico** dei dataset con metadati aggiuntivi (es. coordinate geografiche, entità culturali collegate, categorie semantiche).
-- **Collegamento (Linked Data)** a fonti esterne come **DBpedia**, **Wikidata** e ontologie di dominio.
-- **Trasformazione in NGSI-LD** per supportare applicazioni intelligenti e interoperabili nel dominio del patrimonio culturale.
+Retrieval and conversion of Open Data published on the Open Data portal of the Sicilian Regional Government.
 
+Semantic enrichment of datasets with additional metadata (e.g., geographic coordinates, related cultural entities, semantic categories).
 
+Linking (Linked Data) to external sources such as DBpedia, Wikidata, and domain ontologies.
 
-## Sichelia Discovery 
+Transformation into NGSI-LD to support intelligent and interoperable applications in the cultural heritage domain.
 
-**Sichelia Discovery** è una web application desktop pensata per esplorare e valorizzare il patrimonio culturale immateriale della Sicilia. Attraverso una mappa interattiva e strumenti di ricerca avanzati, permette di scoprire tradizioni, luoghi e manifestazioni culturali distribuiti sul territorio siciliano.
+## Sichelia Discovery
 
-##  Applicazione web
+Sichelia Discovery is a desktop web application designed to explore and promote Sicily’s intangible cultural heritage. Through an interactive map and advanced search tools, it allows users to discover traditions, places, and cultural events distributed across the Sicilian territory.
 
-Il progetto include un'applicazione web per l'esplorazione dei dati culturali siciliani su mappa, con funzionalità di **ricerca** e **filtro tematico**:
+## Web Application
 
-🔗 [Vai all'applicazione web](https://nlpgroup.unior.it/dahlia_nlp/sichelia_discovery/)
+The project includes a web application for exploring Sicilian cultural data on a map, with search and thematic filtering features:
 
----
+🔗 [Go to the web application] (https://nlpgroup.unior.it/dahlia_nlp/sichelia_discovery/)
 
-## Funzionalità principali
+## Main Features
 
-- Visualizzazione geolocalizzata di beni culturali immateriali con evidenziazione delle diverse tipologie.
-- Filtri dinamici per esplorare le entità in base a categorie, temi e localizzazione geografica.
-- Ricerca testuale per trovare rapidamente opere, eventi o tradizioni.
-- Pannello dettagliato che mostra informazioni approfondite sull’elemento selezionato, con descrizioni, riferimenti e dati semantici.
-- Interfaccia intuitiva e responsive, adatta a diversi dispositivi e risoluzioni.
+Geolocated visualization of intangible cultural heritage assets, highlighting different typologies.
 
----
+Dynamic filters to explore entities by category, theme, and geographic location.
 
-## Informazioni sul progetto
+Text-based search to quickly find works, events, or traditions.
 
-Questa applicazione è stata realizzata da Dahlia srl nell’ambito del progetto Data-Highway:  
-“Creazione di una piattaforma di ‘Linked Open Data’ per la realizzazione di applicazioni innovative per il turismo e la promozione culturale”.
+Detailed information panel showing in-depth data about the selected element, including descriptions, references, and semantic data.
 
-Il progetto è stato finanziato dal Programma Operativo Complementare (POC Sicilia) 2014-2020 – Asse 1  
-“Sostenere la competitività e la trasformazione digitale sostenibile, e innovativa”,  
-Azione 1.1.1 “Investimenti qualificati per lo sviluppo e il potenziamento della capacità di ricerca e innovazione” –  
-Completamento graduatoria Azione 1.1.5 del PO FESR Sicilia 2014/2020.
+Intuitive and responsive interface, suitable for different devices and screen resolutions.
 
----
+## Project Information
+
+This application was developed by Dahlia srl as part of the Data-Highway project:
+“Creation of a ‘Linked Open Data’ platform for the development of innovative applications for tourism and cultural promotion.”
+
+The project was funded by the Complementary Operational Programme (POC Sicily) 2014–2020 – Axis 1
+“Supporting competitiveness and sustainable, innovative digital transformation,”
+Action 1.1.1 “Qualified investments for the development and strengthening of research and innovation capacity” –
+Completion of the ranking list for Action 1.1.5 of the ERDF Sicily Operational Programme 2014/2020.
