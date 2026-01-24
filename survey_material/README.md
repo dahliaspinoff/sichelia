@@ -1,6 +1,7 @@
 # Survey
 
-This repository contains the materials linked to the survey used to evaluate the web application SICHELIA.
+This repository contains the materials 
+related to the survey used to evaluate the web application SICHELIA.
 
 ## Methodology
 
