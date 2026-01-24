@@ -2,7 +2,7 @@
 
 This repository contains the materials linked to the survey used to evaluate the web application SICHELIA.
 
-# Methodology
+## Methodology
 
 The usability test was conducted through an anonymous online questionnaire administered to groups of real users. Participants tested the web app in two contexts:
 
@@ -11,14 +11,14 @@ The usability test was conducted through an anonymous online questionnaire admin
 
 After the testing phase, users completed the survey.
 
-# Survey Structure
+## Survey Structure
 
 The questionnaire collected both:
 
 - Quantitative data through Likert-scale questions (e.g. satisfaction, ease of use, clarity, efficiency).
 - Qualitative data through open-ended questions (e.g. suggestions, comments, reported issues).
 
-# Design References
+## Design References
 
 The survey was designed following established usability evaluation models and inspired by:
 - Questionnaire for User Interface Satisfaction (QUIS) (Harper & Norman, 1993)
@@ -31,7 +31,7 @@ volume 224, 1993, p. 228.
 
 A. M. Lund, Measuring usability with the use questionnaire, Usability interface 8 (2001) 3–6
 
-# Goal
+## Goal
 
 The main goal of the survey was to identify usability and user experience issues by evaluating:
 
