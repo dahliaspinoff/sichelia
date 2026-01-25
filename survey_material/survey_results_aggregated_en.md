@@ -1,5 +1,6 @@
-# Survey results (aggregated)
-A total of 100 users answered the questionnaire.
+# Survey results (aggregated) translated from Italian.
+A total of 100 users participated in the survey.
+Responses to open-ended questions have been aggregated for clarity.
 
 ## Section 1 – Demographics
 
@@ -10,6 +11,7 @@ A total of 100 users answered the questionnaire.
 **Q2.** Gender:
 
 ![Q2 Gender](images/Q2.png)
+
 
 **Q3.** Occupation:
 
