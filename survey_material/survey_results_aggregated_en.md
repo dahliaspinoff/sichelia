@@ -24,4 +24,13 @@ A total of 100 users answered the questionnaire.
 ## Section 3 - Interface Design 
 
 **Q5.** How does the interface design look to you?
-![Q4 Interface](images/Q5.png)
+
+![Q5 Interface](images/Q5.png)
+
+**Q6.** Were the icons and buttons clear?
+
+![Q6 Interaction](images/Q6.png)
+
+**Q7.** Were the main features easy to find and use?
+
+![Q7 Interaction](images/Q7.png)
