@@ -19,7 +19,7 @@
 **Q3.** Occupation:
 - Open-ended
 
-## Section2 - Context of use
+## Section 2 - Context of use
 
 **Q4.**  Which device did you use to access the web app?
 - [ ] PC (laptop or desktop)
