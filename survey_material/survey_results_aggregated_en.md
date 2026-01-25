@@ -33,6 +33,8 @@ Responses to open-ended questions have been aggregated for clarity.
 
 ![Q6 Interaction](images/Q6.png)
 
+## Section 4 - Usability
+
 **Q7.** Were the main features easy to find and use?
 
 ![Q7 Interaction](images/Q7.png)
