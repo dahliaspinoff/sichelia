@@ -1,11 +1,11 @@
 # Survey
 
-This repository contains the materials 
-related to the survey used to evaluate the web application SICHELIA.
+This repository contains the materials related to the survey used to evaluate the web application SICHELIA.
+The survey was designed in Italian, but here we report the English version for clarity.
 
 ## Methodology
 
-The usability test was conducted through an anonymous online questionnaire administered to groups of real users. Participants tested the web app in two contexts:
+The survey was conceived as a usability test and was conducted through an anonymous online questionnaire administered to groups of real users. Participants tested the SICHELIA web app in two contexts:
 
 - Controlled environment: supervised sessions to directly observe user interaction.
 - Uncontrolled environment: independent use of the application.
@@ -14,17 +14,17 @@ After the testing phase, users completed the survey.
 
 ## Survey Structure
 
-The questionnaire collected both:
+The survey collected both:
 
-- Quantitative data through Likert-scale questions (e.g. satisfaction, ease of use, clarity, efficiency).
-- Qualitative data through open-ended questions (e.g. suggestions, comments, reported issues).
+- Quantitative data through Likert-scale questions (e.g. satisfaction, ease of use, clarity, performance).
+- Qualitative data through open-ended questions (e.g. suggestions, reported issues or technical problems).
 
 ## Design References
 
 The survey was designed following established usability evaluation models and inspired by:
 - Questionnaire for User Interface Satisfaction (QUIS) (Harper & Norman, 1993)
 - USE Questionnaire (Lund, 2001)
-- Website Analysis and Measurement Inventory (WAMMI) https://www.wammi.com/questionnaire.html
+- Website Analysis and Measurement Inventory [WAMMI](https://www.wammi.com/questionnaire.html)
 
 B. D. Harper, K. L. Norman, Improving user satisfaction: The questionnaire for user interaction
 satisfaction version 5.5, in: Proceedings of the 1st annual mid-Atlantic human factors conference,
