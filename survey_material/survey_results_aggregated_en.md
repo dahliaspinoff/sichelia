@@ -46,9 +46,25 @@ A total of 100 users answered the questionnaire.
 
 **Q10.** Were the interactions (e.g., clicking buttons or selecting interests) simple?
 
-![Q10 Interaction](images/10.png)
+![Q10 Interaction](images/Q10.png)
 
 ## Section 5 - Performance & Technical Functioning
 **Q11.** How fast were the web app’s response times?
 
-![Q11 Response time](images/11.png)
+![Q11 Response time](images/Q11.png)
+
+**Q12.** Were there any sections, features, or content that you found unclear?
+
+![Q12 Clarity](images/Q12.png)
+
+**Q12.1** Please explain which sections, features, or content you found unclear and why.
+
+![Q12.1 Unclarity explanation](images/Q12.1.png)
+
+**Q13.** Did you experience any technical problems or malfunctions?
+
+![Q13 Technical problems](images/Q13.png)
+
+**Q13.1** Please explain which technical problems or malfunctions you experienced.
+
+![Q13.1 Technical problems explanation](images/Q13.1.png)
