@@ -1,6 +1,6 @@
-# Survey results (aggregated) translated from Italian
+# Survey results 
 A total of 100 users participated in the survey.
-Responses to open-ended questions have been aggregated for clarity.
+Responses to open-ended questions have been aggregated and translated from Italian for clarity.
 
 ## Section 1 – Demographics
 
@@ -17,7 +17,7 @@ Responses to open-ended questions have been aggregated for clarity.
 
 ![Q3 Occupation](images/Q3.png)
 
-## Section2 - Context of use
+## Section 2 - Context of use
 
 **Q4.**  Which device did you use to access the web app?
 
