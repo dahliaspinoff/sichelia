@@ -1,4 +1,5 @@
-# Survey (English Version translated from the original Italian survey)
+# Survey 
+Here are the survey questions translated into English from the original Italian survey.
 
 ## Section 1 – Demographics
 
