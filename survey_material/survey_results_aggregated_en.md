@@ -1,4 +1,4 @@
-# Survey results (aggregated) translated from Italian.
+# Survey results (aggregated) translated from Italian
 A total of 100 users participated in the survey.
 Responses to open-ended questions have been aggregated for clarity.
 
