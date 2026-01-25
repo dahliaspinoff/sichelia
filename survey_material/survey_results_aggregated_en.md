@@ -20,3 +20,8 @@ A total of 100 users answered the questionnaire.
 **Q4.**  Which device did you use to access the web app?
 
 ![Q4 Device](images/Q4.png)
+
+## Section 3 - Interface Design 
+
+**Q5.** How does the interface design look to you?
+![Q4 Interface](images/Q5.png)
