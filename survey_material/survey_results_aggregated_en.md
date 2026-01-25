@@ -68,3 +68,22 @@ A total of 100 users answered the questionnaire.
 **Q13.1** Please explain which technical problems or malfunctions you experienced.
 
 ![Q13.1 Technical problems explanation](images/Q13.1.png)
+
+## Section 6 - User Satisfaction & Expectations
+**Q14.** To what extent did the web app meet your expectations?
+
+![Q14 Expectations](images/Q14.png)
+
+**Q15.** How likely are you to recommend this web app to others?
+![Q15 Recommendation](images/Q15.png)
+
+**Q16.** Which features did you find most useful? (You may select more than one option)
+
+![Q16 Useful features](images/Q16.png)
+
+
+## Section 7 - Suggestions & Improvement
+
+**Q17.** Is there anything you would improve?
+
+![Q17 Improvements](images/Q17.png)
