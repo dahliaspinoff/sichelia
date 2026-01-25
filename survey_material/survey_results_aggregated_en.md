@@ -14,3 +14,9 @@ A total of 100 users answered the questionnaire.
 **Q3.** Occupation:
 
 ![Q3 Occupation](images/Q3.png)
+
+## Section2 - Context of use
+
+**Q4.**  Which device did you use to access the web app?
+
+![Q4 Device](images/Q4.png)
