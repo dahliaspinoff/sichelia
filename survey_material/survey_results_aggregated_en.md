@@ -34,3 +34,21 @@ A total of 100 users answered the questionnaire.
 **Q7.** Were the main features easy to find and use?
 
 ![Q7 Interaction](images/Q7.png)
+
+
+**Q8.** How intuitive was the interaction with the web app?
+
+![Q8 Intuitiveness](images/Q8.png)
+
+**Q9.** Did you quickly understand how to use the web app?
+
+![Q9 Usability](images/Q9.png)
+
+**Q10.** Were the interactions (e.g., clicking buttons or selecting interests) simple?
+
+![Q10 Interaction](images/10.png)
+
+## Section 5 - Performance & Technical Functioning
+**Q11.** How fast were the web app’s response times?
+
+![Q11 Response time](images/11.png)
