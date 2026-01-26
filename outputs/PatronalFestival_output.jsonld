@@ -1,0 +1,1862 @@
+[ {
+  "id" : "urn:ngsi-ld:PatronalFestival:ac6712e4-d03e-43c8-bcd8-312bb7080671",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "Prima domenica di Luglio (Processione); Festa 8 giorni"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:8cdaf88b-70e7-4d70-a79a-40e328ce5ed3"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "San Caloriu, lu santuzzu miraculusu"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale/Patronale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "A San Calogero, santo di origini africane, si dedica una lunga celebrazione dalla prima alla seconda domenica di luglio. I festeggiamenti iniziano nella Chiesa a Porta Atenea il venerdì precedente, dove i devoti compiono u viaggiu, un pellegrinaggio in gruppi in rigoroso silenzio, portando oggetti devozionali per grazia ricevuta, e vedono culmine con le processioni domenicali. Durante l'intera festa e ancor più in quest'occasione i balconi e le strade della città si riempiono di luci e colori, di devoti, di bancarelle, tamburinari e folle festanti che accolgono e accompagnano il simulacro del Santo. I festeggiamenti della domenica iniziano con l'Alborata con spari di mortaretti e proseguono con le celebrazioni e la processione che avviene in due momenti diversi. A mezzogiorno la statua del Santo da Via Atenea è condotta in spalla da sessanta giovani devoti a Porta Addolorata dove sosta sino a sera circondata da fedeli. La processione riprende, riattraversando la città, e da lì giunge sino al viale della Vittoria con la partecipazione delle Autorità Comunali, delle confraternite di Agrigento e dell'Associazione dei portatori. L'intensa spiritualità della festa emerge durante la processione, nei momenti in cui i fedeli detergono il volto del santo che \"suda\" e nell'atto del lancio delle fette di pane dai balconi. Questo gesto, oggi in parte sostituito dal lancio di manifestini colorati con messaggi edificanti, ricorda il momento in cui il monaco Calogero attraversava la città colpita dalla peste, per raccogliere per i suoi poveri i pani che i ricchi, per timore del contagio, lanciavano dalle finestre. La tradizione vuole, inoltre, che per effetto del contatto con la statua del Santo, esso possa compiere miracoli e lenire o guarire coloro che a lui si votano. La festa domenicale si conclude con i fuochi pirotecnici e la fiaccolata in piazzetta San Calogero prima del rientro della statua del Santo in vista della successiva processione domenicale."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/1"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "La festa di San Calogero ad Agrigento si lega all'antica leggenda del Santo monaco d'epoca normanna, le cui origini si fanno risalire al V-VI secolo."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Clero, devoti portatori di vara"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Autorità comunali, confraternita dei portatori, devoti, banda e tamburinari, comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Cardella, Antonio. 2002. Santi riti e leggende del popolo siciliano. Palermo: Sigma.\n \nCusumano, Antonio. 2000. Agrigento e San Calogero tra grecità e carnalità in La forza dei simboli. Studi sulla religiosità popolare. Palermo: Folkstudio.\n \nPitrè, Giuseppe. 1979. Feste Patronali in Sicilia in Biblioteca delle Tradizioni popolari siciliane. Sala Bolognese: Forni. v. XXI."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Calogero"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 13.58333301544189, 37.31666564941406 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:57789503-c733-4fef-9205-1109cda62a4b",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "30 novembre - 20 dicembre"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:3903069a-b7be-4780-bc5a-c50d503b4771"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Celebrativa"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La festa patronale della Santa siracusana è preceduta dalla tredicina, momenti di preghiere e di altre iniziative prettamente religiose che iniziano il 30 novembre, 13 giorni prima della data di inizio della festa.\nIl 9 dicembre ha inizio il solenne triduo con l’esposizione del Simulacro argenteo di Santa Lucia nella Cappella a Lei dedicata in Cattedrale e ogni sera ha luogo la benedizione e il bacio della Reliquia. La mattina del 12 dicembre, giorno della vigilia, si assiste alla traslazione del Simulacro dalla Cappella all’altare Maggiore. Alle 11:45 il Campanellaio e il Maestro di Cappella danno inizio alle operazioni necessarie fin quando l’esplodere dell’applauso dei fedeli accoglie la Santa fuori dalla sua Cappella. Santa Lucia adesso è in mezzo al suo popolo e fra le grida di invocazione e gli applausi, pian piano viene portata sull’altare Maggiore della Cattedrale al grido di Sarausana jè (Siracusana è).\nLa sera vengono celebrati, sempre in Cattedrale, i vespri solenni presieduti dall'arcivescovo a cui partecipano diversi sacerdoti della diocesi, diaconi, il seminario arcivescovile e diverse autorità civili e religiose. Alla fine dei vespri viene distribuita ai fedeli la cuccìa, preparata il giorno prima. Nessun credente per il giorno della morte della Santa, 13 dicembre, mangia altro se non il riso: secondo la tradizione quel giorno appartiene alla Santa, protettrice degli occhi e non seguirla provocherebbe cecità. Il 13 dicembre, il Simulacro di S. Lucia, scortato da dodici cilii, grossi candelabri lignei addobbati con fiori, viene portato in processione per le vie della città seguito dalla magnifica carrozza settecentesca del Senato, su cui un tempo sedevano i giurati del Senato aretuseo e da paggi e palafrenieri.\nLa statua, alta tre metri e settanta, contenente nel petto una teca d’oro che custodisce tre frammenti di costole della Santa, viene portata fuori dalla Cattedrale.\nIl corteo attraversa la Porta Marina, l’unica delle antiche porte della città rimaste integre, passando poi il Ponte Umbertino: è li che la città saluta festosamente con fuochi pirotecnici Santa Lucia prima che riprenda il suo percorso verso la Cattedrale per dirigersi quindi alla Borgata. Giunto in Piazza S. Lucia, il suono a festa delle campane annuncia l’ingresso della Santa nella sua Chiesa e al termine delle operazioni di sistemazione del Simulacro sull’altare Maggiore della Basilica, avrà luogo la Santa Messa. L’ottavario in Basilica è caratterizzato dalla folla continua dei fedeli che fanno visita alla Santa e prendono parte alle celebrazioni eucaristiche e dalle ininterrotte visite al Sepolcro, dove solitamente viene esposta una delle due Reliquie. Il 20 dicembre è il giorno del rientro di S. Lucia in Cattedrale."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/80"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "Santa Lucia nacque a Siracusa sul finire del III Secolo. Il nome Lucia è tipicamente cristiano, quindi cristiana era forse anche la famiglia. Santa Lucia fu martirizzata il 13 dicembre 304 durante la persecuzione di Diocleziano. La storia del martirio ci è pervenuta in duplice versione dagli atti latini e dagli atti greci (o codice Papadopulo). Gli atti latini raccontano che la Santa fu trafitta alla gola; gli atti greci che fu decapitata. Siracusa festeggia due volte l’anno la sua Patrona ma, senza dubbio la festa più sentita e commovente è quella del 13 dicembre, giorno del dies natalis della Santa."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Autorità civili, religiose, popolo dei fedeli"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità dei fedeli"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Petrarca, Rosanna. 2005. La Festa di Santa Lucia. Palermo: Regione siciliana, Assessorato dei beni culturali e ambientali e della pubblica istruzione, Dipartimento dei beni culturali ed ambientali ed educazione permanente.\n \nPitrè, Giuseppe. 1979. Feste patronali in Sicilia. Sala Bolognese: Forni."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di Santa Lucia"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.0625, 37.49027633666992 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:29a77bb3-b8aa-441f-8914-b24b8a63a8e1",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "4 Settembre"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:c852e5eb-7d9e-45cb-97fd-835f35ed161d"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "Acchianata"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Celebrativa/Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "Dopo tempo, fuggita da Quisquina, la giovane romita Rosalia si rifugiò sul Monte Pellegrino presso Palermo, dove la morte la colse e dove furono rinvenute le sacre spoglie. Subito dopo il ritrovamento l’imboccatura della grotta fu abbellita con una facciata e divenne meta di pellegrinaggio. Ancora oggi, sin dalle prime ore di luce del 4 settembre, Dies Natalis della Santa, migliaia di devoti si recano per invocare la grazia o per ringraziare la Santuzza per i doni ricevuti. Moltissimi a piedi scalzi percorrono l’antico sentiero costruito tra il 1674 e il 1725. L’acchianata, così chiamata per la ripida salita che parte dalla piazza alle falde della montagna, si protrae nei 7 giorni a seguire."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/56"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "La celebrazione della festa in onore della santa patrona della città di Palermo, Rosalia, risale al 1624, anno in cui la città fu miracolosamente salvata dalla morsa della peste che da quasi un anno imperversava e che aveva procurato quasi 10.000 morti. Le notizie biografiche sulla Santuzza erano andate disperse dal XII secolo e furono recuperate, mescolando realtà e invenzione, in seguito all’evento salvifico. La sua proclamazione a Santa Patrona della città, scalzando le precedenti Santa Cristina e Ninfa, è legata al miracoloso ritrovamento delle ossa il 15 luglio 1624 sul Monte Pellegrino. La Santa era comparsa in sogno al saponaro Vincenzo Bonelli indicandogli il luogo in cui sarebbero successivamente state rinvenute le sante reliquie, chiedendogli di portarle in processione. Da quel momento la grotta del Pellegrino divenne Santuario, ove i devoti si recano ancora oggi a rendere omaggio alla Santa per le grazie ricevute."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Comunità dei devoti, confraternite, turisti"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Devoti, comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Attanasio, Maria e Giuseppe Leone. 2000. Il divino e il meraviglioso. Feste religiose di Sicilia. Palermo: Leopardi.\n \nCollura, Paolo. 1977. Santa Rosalia nella storia e nell’arte. Palermo: Santuario del Montepellegrino.\n \nCroce, Maurizio. 2004. Le stagioni del sacro: almanacco delle feste popolari siciliane. Palermo: Flaccovio.\n \nPitrè, Giuseppe. 1979. Feste Patronali in Sicilia in Biblioteca delle Tradizioni popolari siciliane. Sala Bolognese. Forni. v. XXI.\n \nSantoro, Rodo. 2003. Il Festino di Santa Rosalia. Palermo: Dario Flaccovio.\n \nValdini, Guido, a cura di. 2003. Palermo. Il festino di Santa Rosalia. Palermo: Officine Grafiche Riunite."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Santa Rosalia fuori le Mura"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 13.35166645050049, 38.11111068725586 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:e029572c-3924-42e9-9881-1c4d28747619",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "12-13 Giugno"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:7058cd9f-b1bf-4e61-abe6-9446b694c3a2"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "devozionale, rigenerativa"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "I festeggiamenti del Santo Patrono vengono preparati dalla pratica della tredicina in onore di Sant'Antonio da Padova. Si tratta di una serie di preghiere che vengono recitate per tredici giorni consecutivi dal 31 maggio al 12 giugno.\nI festeggiamenti entrano nel vivo durante il giorno della vigilia della festa, giorno 12 giugno, quando avviene la caratteristica \"entrata dei partiti\" Sciara e Piazza che si confrontano in un'appassionante gara di fuochi pirotecnici.\nLa solenne festa di Sant'Antonio da Padova viene celebrata il 13 giugno, il dies natalis del taumaturgo, sin dalle prime ore dell'alba. In una chiesa ricolma di fedeli, alle ore 7:00 del mattino, viene celebrata la solenne celebrazione liturgica, durante la quale si svela il simulacro del Santo tra la commozione dei fedeli che inneggiano al Patrono, sventolando i loro fazzoletti bianchi. La celebrazione si conclude con la solenne benedizione del pane che viene, poi, distribuito ai fedeli.\nNell'arco della giornata si susseguono numerose celebrazioni eucaristiche in onore del Santo. Nel pomeriggio, conclusa l'ultima Santa Messa, il simulacro raffigurante San'Antonio da Padova viene prelevato dall'altare centrale con un meccanismo di ferro e disposto su una piccola vara. Sistemato sul solenne fercolo artistico, viene condotto fuori dalla chiesa tra gli applausi festanti dei fedeli e la rumorosa \"moschetteria\". Posto al centro della piazza del paese, il fercolo sosta per l'esecuzione della tradizionale e antica \"cantata\", prima di iniziare la solenne processione tra le vie principali del paese. La vara, condotta dai devoti, che tirano lunghi cordoni, è preceduta da una piccola \"Candelora\", frutto della devozione di alcuni gravinesi.\nLa processione di conclude a tarda sera dopo un imponente spettacolo pirotecnico."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/13"
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Intera comunità di devoti e fedeli"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale, turisti"
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa Sant'Antonio da Padova"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 15.061781, 37.560357 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:49bcb142-4fd6-46e5-ab84-fa1d164a4840",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "Dal 7 al 9 Maggio (triduo); 10 Maggio (festa)"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:63c6dba9-5c18-4bd5-b1b4-a7d8396aa456"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "Fest’i Sant’Alfiu, Filadelfiu, Cirinu (Li Tri Santi)"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale/Patronale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "A San Fratello in provincia di Messina dal 7 maggio al 9 maggio si svolge il triduo di preparazione per la festa in onore dei tre Santi Fratelli Alfio, Filadelfio, Cirino, il 10 maggio.\nFin dal mattino sfilano per le vie del centro centinaia di cavalieri con i loro cavalli di razza “sanfratellana” (cavallo indigeno incrociato con arabo): in seguito si uniranno alla processione religiosa che parte dalla Chiesa Madre per giungere all'antico Santuario dedito ai tre Fratelli, dove verrà celebrata la Santa Messa e si concluderà la festa. Prima del tramonto le reliquie e la Statua di San Filadelfio tornano alla Chiesa Madre mentre i cavalieri e la comunità continuano la festa all’insegna della buona tavolata e della sagra paesana di prodotti tipici.\nDiversamente da quanto accade nelle festività di Trecastagni e di Lentini, dove il pellegrinaggio notturno dei “Nudi” precede il giorno di festa, il rito di San Fratello è volto a rievocare la cavalcata storica dei cavalieri verso l’antico Santuario normanno, edificio del XII secolo dove sono custodite le reliquie dei santi patroni."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/43"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "Alfio (III secolo – Lentini, 10 maggio 253), Cirino (III secolo – Lentini, 10 maggio 253) e Filadelfo (III secolo – Lentini, 10 maggio 253) sono stati tre fratelli gemelli, figli di Vitale e Benedetta, due patrizi di fede cristiana nati a Vaste in provincia di Lecce: i tre giovani, uccisi durante l'epoca delle persecuzioni ordinate dall'imperatore Decio, sono considerati santi martiri dalla Chiesa cattolica che li ricorda il 10 maggio, giorno corrispondente al loro martirio.\nLe notizie che possediamo sulla vita e sul martirio dei tre fratelli, Alfio, Filadelfo e Cirino, il cui culto è molto diffuso in quasi tutta la Sicilia Orientale fin dall'alto medioevo, sono contenute in un manoscritto datato al 960 d.C. e conservato alla Biblioteca Vaticana proveniente dal monastero di Grottaferrata.\nDopo la morte, la storia delle reliquie dei tre fratelli è strettamente collegata con la storia di San Fratello e di Lentini. Fu, infatti Costantino, XIII vescovo di Lentini (787), che, intimorito dai pericoli di una imminente invasione musulmana, fece trasferire in gran segreto le sacre reliquie presso il Santuario Normanno nell’area dell’acropoli di Apollonia (attuale San Fratello). Le sacre ossa vestirono un ruolo significativo nel territorio, dato che già nel XII secolo si narra dell’esistenza del “Santuario dei Tre Santi sul Monte Vecchio” e del successivo cambio del nome della cittadina in “San Fratello” in onore dei tre “Santi Fratelli”. \nNel 1611 Papa Paolo V concesse l’autorizzazione a recitare gli Officia dedicati ai tre santi durante la messa in occasione della festività. Si diffuse così il ciclo dei festeggiamenti in onore dei tre santi che si svolgono dal 1° maggio all’11 maggio a Lentini e Trecastagni, la 1° domenica del mese di maggio a S. Alfio, entro i primi 15 giorni a San Fratello. Seguendo l’ipotesi degli storici, è probabile che a San Fratello le ossa furono portate dai monaci basiliani di San Filippo di Fragalà per sottrarli alle devastazioni arabe, giunte ormai anche alle porte del monastero. La tradizione narra che fu un pastore a ritrovare le Sacre Reliquie dopo che S. Alfio gli aveva indicato in sogno il luogo esatto dove scavare. In seguito le reliquie vennero devotamente custodite nella Chiesa Madre in una cassa d'argento e venne istituita la festa del 10 Maggio in onore dei Santi Patroni Alfio, Filadelfio e Cirino, caratterizzata dalla tradizionale cavalcata che precede la processione al Santuario Normanno sul \"Monte Vecchio\"."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Autorità civili (il Sindaco) e religiose (Vescovo della Diocesi di Patti), portatori della vara, confraternite del paese, cavalieri e cavalli sanfratellani."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Devoti, comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Guggino, Elsa. 1965. Alfio, Filadelfo, Cirino: genesi di una leggenda, Palermo: S.F. Flaccovio."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa dei Santi Patroni: Alfio, Filadelfio, Cirino"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.597438888, 38.012786111 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:20e67577-eefc-4a9d-8e29-c0722ab7133b",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "12 Maggio"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La mattina del 12 maggio, la statua raffigurante il santo viene trasferita dalla chiesa di San Filippo sull'omonimo colle, alla Chiesa dell’Immacolata, da cui la sera ha inizio la processione accompagnata dalla banda musicale. Tra le dita della statua viene messo un fascio di spighe di grano, ciò dimostra come la devozione sia legata tradizionalmente ai ritmi dei lavori nei campi: a maggio infatti il grano comincia a maturare. Al termine della processione, prima del rientro in chiesa e dello sparo dei fuochi d'artificio, i fedeli salutano il santo e ne invocano protezione e intercessione attraverso un canto tradizionale intervallato da preghiere, in cui ricordano i prodigi di San Filippo.\nSe ne riporta uno stralcio di seguito:\n Tu che ogni affetto vano e terreno Fuggisti sempre come il veleno ecco t’offriamo il nostro cuore prendilo e infiammalo di santo amore. Con la tua prece festi calmare le minacciose onde del  mare donaci ancora forza e aita nelle tempeste di questa vita."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/40"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "La devozione di Rodi Milici a San Filippo, nativo di Agira, dove predicò ed ebbe sepoltura, è legata ad un episodio tramandato dalla tradizione secondi cui il santo apparve a un bovaro chiedendo di edificare una chiesa in suo onore sul colle che oggi, in ricordo di tale evento, riporta il suo nome."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "I portatori conduco a spalla la statua lignea del Santo per la vie della città."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Messina : Assessorato alla pubblica istruzione. 1992. Feste, fiere, mercati. S.d. Messina: EDAS."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Filippo d'Agira"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:ccb40b58-895b-47ab-a8fb-0c95bd0d297c",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "25 Gennaio - 29 Giugno"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:58a57f99-cb3a-459a-b9a1-fe94ac1c0d7a"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "A Sciuta"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Festa patronale, propiziatoria ricade infatti nel periodo del raccolto del grano."
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La tradizionale e antica processione dedicata all'apostolo il 29 giugno alle ore tredici a Palazzolo Acreide rappresenta uno dei rituali maggiormente dotati di spettacolarità e suggestività nell'ambito dei festeggiamenti in devozione di San Paolo nel territorio della Provincia di Siracusa.\nAll’alba cominciano i preparativi per l’uscita delle tredici. La profumatissima lavanda, che a Palazzolo viene detta “spica ri San Paulu”, che viene offerta in gran quantità al santo e benedetta, viene distribuita in piccoli mazzi ai fedeli. Verso le nove si muove “u carrettu ro pani”, che, adorno di spighe, trainato a mano per le vie del paese, raccoglie le tradizionali “cuddure”, grandi pani votivi decorati con uno o più serpenti a rilievo, che benedette vengono poi vendute all’incanto nel pronao della chiesa. Un corteo di cavalieri accompagna la raccolta del pane per le vie principali della cittadina. Sul sagrato della basilica di S. Paolo avviene la benedizione degli animali. Ma il momento più importante della festa, atteso e preparato per un intero anno è l’uscita delle tredici “a sciuta”.\nGià dalle prime ore della mattina lo spazio antistante la chiesa e le vie limitrofe sono riempite da un fiume di sostenitori. I devoti sono preparati all'attesissimo evento, ciascuno pronto ad adempiere al proprio ruolo.\nI portatori fremono nell'attesa di compiere il loro gesto, in segno di \"diritto al posto\" legano il fazzoletto (che durante la marcia porteranno al collo), alle lunghe aste delle vare dette \"baiarde\", sia del simulacro che del reliquiario. Essi hanno fatto il voto della \"spalla nuda\" come alcune delle loro donne, che fanno invece la processione scalze, ovvero il voto del \"viagghiu scausu\".\nPoco prima delle 13, al termine della messa, la gran parte dei devoti esce dalla chiesa per cercare posto all'esterno, per assistere all'imminente spettacolo della \"sciuta\" del santo patrono.\nI portatori prendono dall'altare l'antica statua di San Paolo e la collocano sopra la vara. La chiesa è immersa in una atmosfera carica di tensione e significato: mentre gli uomini sollevano a spalla il sacro carico, due devoti, vestiti con camicia, pantaloni bianchi e fazzoletto rosso al collo, sono saliti sulla parte anteriore della vara.\nAll'uscita della vara, come in un contagio collettivo sotto un sole caldissimo le grida di incitamento si diffondono per tutto il quartiere, due angeli in cartapesta vengo fatti scendere scorrendo su due fili metallici legati fra il campanile del tempio e il palazzo di fronte. La riuscita di questo lancio è carica di significato scaramantico, infatti nel caso lo scorrimento non fosse fluido e si interrompesse sarebbe da interpretare come cattivo auspicio per l'anno in corso.\nDurante il percorso molto caratteristico è il rituale della benedizione dei bambini nudi, come il rituale delle offerte da parte dei devoti di denaro o preziosi che verranno sistemate con delle spille su dei nastri di colore rosso fissati appositamente sulla vara dai due uomini prima citati.\nAll'uscita del reliquiario, fra l'assordante scampanio e un primo sparo dei fuochi d'artificio, i portatori trasportano il sacro carico fra la folla per fermarsi in attesa fino appena oltre la piazza. Sono le 13 in punto, la \"sciuta\" si compie, esce il simulacro di San Paolo, finalmente appare ai suoi devoti, la piazza è tutta in continua acclamazione, inizia lo spettacolo pirotecnico composto di maestosi e potenti fuochi d'artificio, di lanci di stelle filanti e volantini colorati detti \"nzareddi\" che piovono e sommergono letteralmente il pubblico e così prende avvio la processione, il serpentone umano procede lentamente per le vie dell'antico quartiere di Palazzolo.\nIl reliquiario e il simulacro faranno una breve sosta durante il corteo per entrare in segno di devozione nella chiesa dell'Annunziata, poi il corteo proseguirà fino alle 14,30 circa, momento del rientro alla chiesa dedicata al patrono, qui reliquiario e simulacro verranno riposti fra gli applausi e l'acclamazione generale dei devoti.\nLa sera, all’imbrunire, si svolge una seconda processione. In tarda serata a conclusione della processione, viene sparato “u fuocu”, uno straordinario spettacolo pirotecnico. Dopo le placide girandole con i loro colori e sibili, con la magia con quale sanno all’improvviso manifestarsi in nuove forme e colori, inizia un grande spettacolo pirotecnico in tutte la direzioni, si creano effimeri arabeschi di fuoco che illuminano nel loro susseguirsi di colori le volute barocche della chiesa, la piazza, i palazzi circostanti.\nNel giorno dell'ottava e un'ultima volta per l'anno in corso, la processione per le vie del paese avrà nuovamente luogo, fino al rientro in chiesa dove la statua verrà riposta all'interno della nicchia per rimanervi fino alla prossima festa di giugno."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/77"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "Il culto di San Paolo a Palazzolo Acreide (SR) è molto antico, anteriore, probabilmente di diversi secoli, alla stessa elezione del santo a patrono avvenuta nel 1688, al posto della Madonna di Odigitria, venerata nella chiesa di san Sebastiano. I documenti dell’archivio della chiesa di S. Paolo attestano la festa del Santo già dal 1599. La festa era allora organizzata dalla Confraternita dei Disciplinati, che organizzavano rappresentazioni sacre sul sagrato della chiesa ed assegnavano il posto da occupare dalle altre confraternite durante la processione."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Non esistono confraternite di portatori, ma soltanto il comitato per l'organizzazione dei festeggiamenti. I portatori sono cittadini non organizzati che si propongono per ricevere una grazia.  Il numero dei portatori varia per le due vare nel numero di 80 - 100 per la statua e di 50 circa per il reliquiario. I portatori, nel numero minimo di un'ottantina, sollevano la statua per le aste e dopo una breve attesa all'interno della chiesa, procedono con il sacro carico uscendo lentamente dall'edificio di culto. Il Simulacro si ferma per l'avvio dello spettacolo pirotecnico, dopo qualche minuto riparte in lento corteo per le vie della città."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Autorità comunali, confraternita dei portatori, devoti, comunità locale, turistiAutorità comunali, confraternita, portatori, banda musicale, devoti, comunità locale, turisti."
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Burgaretta, Sebastiano. 2005. Appunti di viaggio – Folklore, storia e religiosità in Sicilia, Siracusa: Emanuele Romeo.\n \nGrimaldi, Tonino.1994. San Paolo, Patrono di Palazzolo Acreide. Notizie storiche sulla chiesa, Confraternita e festa di San Paolo, Siracusa: Zangara Stampa.\n \nMonteforte, Giampaolo Vincenzo. 1995. La festa di San Paolo a Palazzolo Acreide, Ragusa: Iblea Grafica.\n \nUccello, Antonino. 2000. L'Estate dei Santi Patroni, La Festa di San Paolo a Palazzolo Acreide, Siracusa: Stampa Grafica Saturnia."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Paolo Apostolo"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.902777777, 37.061666666 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:33449a79-4337-4a3f-b109-45706a8b7402",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "20 Gennaio; 10 Agosto (processione estiva)"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:58a57f99-cb3a-459a-b9a1-fe94ac1c0d7a"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Celebrativa/Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La festa di San Sebastiano, celebrata dalla chiesa cristiana il 20 gennaio, è replicata a Palazzolo Acreide il 10 Agosto. Il rito andò a soppiantare la festa per la Madonna dell’Odigitria che si celebrava in quella stessa data. I festeggiamenti iniziano già la sera precedente, quando il fercolo secentesco del Santo, nascosto alla vista dei fedeli per l’intero anno, viene svelato. Alle 13, il fercolo e la reliquia, portati da devoti a spalla nuda, escono tra la folle festante. Nel paese questa festa si lega ad un comune e sentito atto di sofferenza; le donne a piedi scalzi seguono i fercoli accompagnate dalla banda e da migliaia di devoti e i portatori di vara, afflitti dall’intenso calore di una giornata estiva, attraversano le strade del paese, conducendo le vare anche per percorsi ripidi. Il sacrificio per il Santo accresce quando le vare giungono alla salita di Via Fiume Grande, dove la grande ripidità del vicolo induce i portatori a muoversi in uno spazio ridotto, a formare una catena umana. Al Santo, come la ritualità religiosa più volte conferma, sono associati poteri salvifici, di guarigione. In chiesa e durante il percorso, numerosi neonati e bambini vengono, infatti, spogliati e offerti in senso di protezione e di invocazione di grazia. Un’altra processione serale chiude i festeggiamenti in onore del Santo, che in realtà perdurano con momenti di divertimento nel paese per l’intera settimana."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/79"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "Le origini della festa, risalgono al 1603, alla celebrazione della Madonna Odigitria, giorno in cui si fece coincidere la festa in onore del San Sebastiano martire, fissata al martedì di Pasqua. Fino al 1712 la celebrazione della festa si alternò tra tale giorno e la domenica dell’ottava di Pasqua. In origine la festa durava otto giorni, in cui si svolgevano straordinari festeggiamenti, erano allestite luminarie, realizzati giochi di fuoco, giochi popolari in piazza, corse di cavalli e ogni altra occasioni di svago. Come riporta Giuseppe Pitrè, Palazzolo Acreide si caratterizzò per una forte diatriba per il primato tra San Sebastiano e San Paolo che si protrasse a lungo e fu giocata all’interno di due contrade, facendo leva sull’importanza che i due Santi avevano rivestito all’interno della storia della religione cristiana. Dal più forte e combattente Paolo, al mite e dimesso Sebastiano che si lasciò trafiggere il corpo."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Clero, devoti portatori di vara, donne devote scalze"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Gruppo bandistico, comunità locale, devoti, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Pitrè, Giuseppe. 1979. Feste Patronali in Sicilia in Biblioteca delle Tradizioni popolari siciliane. Sala Bolognese: Forni. v. XXI.\n \nCroce, Maurizio. 2004. Le stagioni del sacro: almanacco delle feste popolari siciliane. Palermo: Flaccovio."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Sebastiano Martire"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.902777777, 37.061666666 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:10f759b6-8cdb-491b-b3d7-726338f5b7c1",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "8 Dicembre"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:8a9f2f2f-cc6c-43a5-848a-ee96902f02b6"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale/Patronale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "Il popolo termitano ha da sempre uno stretto legame con la figura dell'Immacolata ed il suo culto è talmente radicato che non solo le famiglie termitane ma anche i discendenti degli emigrati lo coltivano ancora oggi. L'Immacolata, infatti, è la Patrona principale della città e si può affermare che tra le festività religiose è la più sentita ed attesa. In quasi tutte le chiese di Termini Imerese si venera un'immagine della Madonna sotto tale titolo e sono addirittura tre i simulacri che vengono condotti in processione l'8 Dicembre in giro per tutto il paese.\nLe tre processioni cittadine che si svolgono tradizionalmente sono: \n- la mattina dell'8, a partire dalle 4:00, il simulacro della Madonna della Neve, o Madonna di Notte, viene condotto dalla confraternita di S. Francesco Saverio, dal Santuario della Madonna della Consolazione, sito a Termini bassa, fino alla Cappella del S. Salvatore a Termini alta, nella quale entra intorno alle 8:30;\n- a mezzogiorno, dal Duomo, sito a Termini alta, la confraternita dell'Immacolata della Maggior Chiesa, conduce il simulacro, realizzato nel 1799 dallo scultore Francesco Quattrocchi, fino alla Chiesa del Carmelo, a Termini bassa, in cui arriva intorno alle 14:30;\n- la sera, a partire dalle ore 19:00, la confraternita dell'Immacolata di Porta Palermo conduce il simulacro, collocato in una cappella incastonata nell'antico muro di cinta della città nei pressi della Porta Palermo, a Termini bassa, fino alla Chiesa di S. Carlo, a Termini alta, terminando il suo percorso verso le 23:00.\nOtto giorni dopo sono ripetute le processioni per riportare i simulacri alle loro rispettive chiese di appartenenza. Particolarmente seguita è la processione che riporta il simulacro al Duomo, nella piazza davanti la Chiesa del Carmine si radunano i fedeli con grosse torce accese in mano in attesa che venga fuori il simulacro dell'Immacolata, la lunga processione si avvia verso Termini alta: risale via Vittorio Emanuele, imbocca la monumentale scala di via Errante dove a rilento i portatori riescono a far salire il pesante fercolo e dopo la tradizionale corsa in via E. Setti Carraro e lo spettacolo pirotecnico al Belvedere, il simulacro viene richiuso all'interno della cappella al Duomo.\nDurante i percorsi delle processioni sono eseguiti dei canti popolari tradizionali che tutti i fedeli intonano con profonda partecipazione ed intensa spiritualità, che si ripete per antica tradizione di generazione in generazione, una fede viva che accresce e arricchisce l'animo dei termitani che si rivolgono alla Vergine affinché li protegga e conceda loro serenità.\nLa devozione sincera e profonda per l'Immacolata si può riscontrare osservando l'enorme partecipazione di folla alle varie processioni e, soprattutto, quando il simulacro del Duomo viene estratto dalla cappella dove viene custodito tutto l'anno."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/65"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "Il culto dell'Immacolata a Termini Imerese risale al seicento, fu nel 1623 che nella Chiesa Madre venne eretto un grandioso altare barocco, in stucco, legno e marmo, posizionato nel transetto sinistro su cui veniva raffigurata l'Immacolata Concezione con le mani giunte sul petto. L'anno dopo, nel 1624, venne fatto voto solenne dai giurati della città e dal popolo devoto: una lapide, posizionata sul muro sinistro accanto al portone centrale della Duomo, ne ricorda il patto, o meglio la garanzia che i termitani difenderanno sempre l'Immacolata Concezione di Maria.\nLa processione che si svolge tutt'ora alle 4:00 del mattino è tradizionalmente la più caratteristica: prima dell'arrivo della luce elettrica (anno 1905), il percorso della processione notturna era rischiarato da enormi fasci, legati ben stretti ed incendiati, di ampelodesma, 'ddisa, pianta fibrosa che cresce abbondante sulle pendici del monte S. Calogero. \nNella veglia antecedente la processione notturna, si consumava 'a favazza, costituita da una pasta lievitata, posta in una grande teglia precedentemente oliata, ricoperta abbondantemente di pomodoro maturo a pezzi, cipolla, caciocavallo a pezzi, acciuga salata, origano ed olio, preparata dalle massaie e cotta nei vari forni cittadini. Oggi alla favazza si aggiungono numerose e succulente pietanze e dolci caratteristici.\nPer tutto il '900 il 29 novembre era considerato un giorno importante in cui tutti si ritrovavano ad affollare la Cattedrale di Termini, si svolgeva in tale data nelle ore pomeridiane il novenario solenne, consistente in una lunga omelia in cui il sacerdote, e spesso rappresentanti di ordini religiosi, parlavano delle grandezze e delle grazie che Maria dispensa. Questa tradizione fu istituita da Agostino La Nasa nel 1888, nacque come occasione durante la quale si raccoglievano i fondi per lo svolgimento della festività dedicata all'Immacolata. La chiesa per l'occasione del novenario veniva allestita con lunghi festoni di colore bianco azzurro, frangiate d'oro, che cadevano lungo le colonne della cupola centrale, altri festoni decoravano tutti i cornicioni e il preambolo dove risiedeva l'immagine della Madonna esposta solennemente sotto grandi e pregiati apparati."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Componenti del clero locale, portatori di fercolo appartenenti alle tre confraternite di S. Francesco Saverio, dell'Immacolata della Maggior Chiesa e dell'Immacolata di Porta Palermo, devoti."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Devoti, comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Catanzaro, Giuseppe. 1997. La festa dell'Immacolata a Termini Imerese, il racconto del Novenario solenne. Bagheria: stampato a cura del Lions Club di Termini Imerese.\n \nCatanzaro, Giuseppe. 2001. La festa dell'Immacolata a Termini Imerese, l'oro della Madonna. Bagheria: stampato a cura del Lions Club di Termini Imerese. \n \nGiunta, Enzo. 2003. Il culto dell'Immacolata a Termini Imerese: attraverso la storia delle Confraternite Mariane. Termini Imerese: Creativa."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa dell'Immacolata"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 13.7, 37.983333333 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:0c855d8e-745d-4ac0-a113-a2337ae72e29",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "Prima domenica di Agosto"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:2d9c4fec-0e00-4427-b799-b13baede2932"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale/Patronale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "Con periodicità triennale Misterbianco festeggia il santo Patrono S. Antonio Abate, la prima domenica di Agosto. Il simulacro di S.Antonio Abate, (opera del '700) è custodito in una artistica \"cammaredda\" sul lato sinistro del transetto, nella Chiesa Madre. I preparativi hanno inizio subito dopo \"l'annuncio\", dato dal parroco, alla fine della messa serale celebrata per la festa liturgica, il 17 gennaio. Attorno a queste cinque giornate si organizzano tutte le manifestazioni inerenti alla festa. In modo particolare la giornata del sabato è certamente la più rumorosa e caratteristica. Dà inizio ai festeggiamenti la solenne processione della Reliquia, che, partendo dalla chiesa di S.Nicolò, si conclude nella Chiesa Madre con il canto dei Vespri e la Benedizione.\nAnticamente ogni quartiere dedicò al Santo un inno \"'a Cantata\" e nei giorni della festa, durante il giro del simulacro, detti inni vengono eseguiti dai cittadini - accompagnati dal corpo musicale. Alla processione, aperta dai Cerei, partecipano le Confraternite, il clero, le religiose, le autorità civili e militari e gran numero di fedeli. Successivamente l'appuntamento è ai \"Quattro Canti\"; dove una moltitudine assiepata aspetta l'ingresso dei cerei, che frattanto si sono disposti lungo la via Matteotti, secondo il tradizionale ordine di entrata: Maestri, Pastori, Carrettieri-Camionisti e Vigneri. L'ingresso di ogni cereo è accompagnato dalla banda musicale che \"sostiene' i portatori nella \"ballata\" mentre assordanti e variopinti fuochi d'artificio riempiono l'aria di fantasmagorici colori e acre fumo a conferma dell'appellativo: \"festa del fuoco\". Trascorse le \"quattro ore di fuoco\", tutti i cerei, con lo stesso ordine con cui sono entrati, lasciano i \"Quattro Canti\" ed entrano nella vicina Chiesa Madre, da dove muoveranno, la domenica mattina, per aprire la Processione del Simulacro del Santo, che rimarrà l'esclusivo protagonista delle due ultime giornate di festa.\nNei cinque giorni di festa - da diversi secoli - fede e folklore si fondono insieme; preghiera, gioia, antagonismo, entusiasmo e commozione sono i denominatori comuni con i quali i misterbianchesi esprimono il loro affetto verso il Santo Patrono.\nCome già accennato, altra caratteristica del culto esterno è la presenza dei quattro cerei: Carrettieri e Camionisti, Vigneri, Pastori e Maestri, che rappresentano, ancora oggi, le varie categorie o gruppi sociali. Tali cerei, nei giorni delle celebrazioni patronali, girano per le vie del paese annunciando la festa. La loro origine deriva dall'offerta della cera al Santo, e giacché si faceva a gara per portare il cero più grosso, dovettero ricorrere all'uso di piccole e rudimentali bare per poterli trasportare, da ciò ebbe origine il termine \"Varetta\". In seguito, sempre in omaggio al santo, le varette vennero abbellite ed ornate con fregi e festoni, che trasformarono la rudimentale bara in un elegante candelabro alto circa cinque metri, da ciò il termine \"Candelora\". Le quattro candelore, costruite in legno dorato, artisticamente lavorato, presentano ricchi ornamenti, puttini, festoni, statue di santi e pannelli raffiguranti la vita di S.Antonio Abate. La più piccola ed aggraziata è la candelora dei Carrettieri e dei Camionisti, ch'è la più antica (1865), mentre la più pesante, si dice, sia quella dei Pastori (1909), con pitture che si rifanno ad episodi della vita dei santo. Il ceto dei pastori, nel nostro paese, va scomparendo ma gode buona stima da parte di tutti i cittadini. Le altre due candelore, di eccezionale fattura ed eleganza, sono quella dei Vigneri (1875), cha ha l'esatta forma di un candelabro, l'unica ad avere il grosso cero nell'interno e, infine, quella dei Maestri, costruita nel 1910, in stile Liberty. La festa di S. Antonio Abate, come tutte le feste patronali, è contornata da manifestazioni di devozione e di fede che escono dai canoni abituali, e che trovano il consenso di tutti e la partecipazione spontanea della popolazione. E il caso della salita di via S. Nicolò \"d'acchianata di Santanicola\", momento trainante della festa in cui giovani e meno giovani si sobbarcano il peso del maestoso ed imponente fercolo del Santo sulle spalle e lo portano, tra una folla plaudente ed un caldo soffocante, fin dentro la chiesa. E' questo un momento della festa, assieme all'uscita pomeridiana attraverso il quartiere \"Manganeddi\", atteso da tutti. Anche chi è solo spettatore, si sente partecipe, dividendo fatica, sudore, sacrificio, gioia e devozione. Tutto è rimasto immutato con il passare degli anni ed ogni cosa si ripete secondo un copione che nessuno ha mai scritto. Certamente le cose sono un pò cambiate; ed oggi non si assiste più alla trascinata del fercolo, che prima del 1963 era senza ruote e veniva portato a spalla dai devoti o tirato con cordoni. Il bello o il peggio, a quell'epoca, arrivava quando il Fercolo giunto alla fine di via S.Giuseppe doveva essere tirato su per l'allora \"atroce\" via Plebiscito. Su quel tratto di strada in salita che arriva fino alla Chiesa di S.Orsola, molti sono gli aneddoti che si raccontano; come quello che coinvolgeva in prima fila \"a zza Filici 'a tronu\" che, quale unica rappresentante femminile, si sottoponeva con sacrificio ad uno sforzo poco adatto alle donne, in devozione a S.Antonio Abate. La sostituzione delle lunette con le ruote e la sistemazione progressiva di tutte le strade ha risparmiato non poche fatiche a tutti i devoti, ma la tradizione \"d'ampunuta\" (l'innalzamento) della vara è rimasta e si è allargata, tanto che nelle ultime edizioni della festa di Agosto anche in piazza della Repubblica, il centro storico del paese, ed in via Bruno Buozzi, la parte nuova e moderna, si assiste all'adunata dei giovani che si uniscono tutti senza distinzione di classi, di ceto, di credo politico per innalzare e portare a spalla la grande vara come segno di fede e devozione dei Misterbianchesi verso S.Antonio Abate. E' questa, assieme alle molte altre, la prova che è ancora vivo anche nei giovani quell'attaccamento al Santo trasmesso da padre in figlio e che, come recita uno degli inni al Patrono, \"infonde al popolo Fede ed Amor\"."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/16"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "S. Antonio Abate nacque in Egitto, a Coma, una località sulla riva sinistra del Nilo, intorno all'anno 250. Fu un eremita tra i più rigorosi nella storia del Cristianesimo antico. Antonio fu un insigne padre del monachesimo orientale. Malgrado appartenesse ad una famiglia piuttosto agiata, mostrò sin da giovane poco interesse per le lusinghe e per il lusso della vita mondana: alle feste ed ai banchetti infatti preferiva il lavoro e la meditazione e alla morte dei genitori distribuì tutte le sue sostanze ai poveri, si ritirò nel deserto e li cominciò la sua vita di penitente. Compiuta la sua scelta di vivere come eremita, trascorse molti anni vivendo in un'antica tomba scavata nella roccia, lottando contro le tentazioni del demonio, che molto spesso gli appariva per mostrargli quello che avrebbe potuto fare se foste rimasto nel mondo. A volte il diavolo si mostrava sotto forma di bestia feroce - soprattutto di porco - allo scopo di spaventarlo, ma a queste provocazioni Antonio rispondeva con digiuni e penitenze di ogni genere, riuscendo sempre a trionfare. Intorno al 311 si recò ad Alessandria per prestare aiuto e conforto ai Cristiani perseguitati dall'imperatore Massimiliano; poi si ritirò sul monte Qolzoum, sul mar Rosso, ma dovette tornare ad Alessandria poco tempo dopo per combattere l'eresia ariana, sempre più diffusa nelle zone orientali dell'impero.\nMalgrado conducesse una vita dura e piena di privazioni, Antonio fu molto longevo: la morte lo colse infatti all'età di 105 anni, il 17 Gennaio del 355, nel suo eremo sul monte Qolzoum.\nSulla sua tomba, subito oggetto di venerazione da parte dei fedeli, furono edificati una chiesa e un monastero; le sue reliquie nel 635 furono portate a Costantinopoli, e poi sembra che siano state portate in Francia tra il sec IX e il X dove oggi si venerano nella chiesa di Saint Julian, ad Arles. I riti che si compiono ogni anno in occasione della festa di S. Antonio sono antichissimi e legati strettamente alla vita contadina e fanno di Antonio Abate un vero e proprio \"santo\" del popolo.\nEgli è considerato il protettore contro le epidemie di certe malattie, sia dell'uomo, sia degli animali. E' stato invocato come protettore del bestiame e la sua effigie era collocata sulla porta delle stalle.\nIl Santo è invocato anche per scongiurare gli incendi, e non a caso il suo nome è legato ad una forma di herpes nota come \"fuoco di Sant'Antonio\" o \"fuoco sacro\"."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Le commissioni dei \"cerei\" e dei \"partiti\" rionali che girano per le vie del paese chiedendo contributi e coinvolgono tutti i cittadini di ogni ceto sociale. Il paese è diviso in \"partiti\" o quartieri:\nS.Nicolò, corrispondente al quartiere \"Panzera\" il quale prese questo nome da un altarino, dove è dipinta la Madonna del Pensiero;\nS.Orsola, corrispondente al quartiere \"Manganeddi\", dal nome dell'antico strumento col quale, in questo quartiere, si lavorava la seta. Nella zona sorse la chiesa di S. Orsola e un tempo esistette l'omonima Confraternita;\nLa Madre Chiesa o \"dei Mastri\", corrispondente al quartiere che abbraccia il centro storico del paese; questo \"partito\" era detto anche \"d'i chiazzoti\";\nS.Angela Merici \"Quarterie delle Terme\", costituito recentemente nel 1992 per affermare una identità di quartiere nella nuova zona nord-ovest e che abbraccia tutti gli abitanti della Parrocchia \"S.Angela Merici\".\nAltra caratteristica del culto esterno è la presenza dei quattro cerei: Carrettieri e Camionisti, Vigneri, Pastori e Maestri, che rappresentano, ancora oggi, le varie categorie o gruppi sociali."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Devoti, clero, gruppi sociali, gruppo musicale"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Longo, Pippo. 1982. Festeggia popolo!: raccolta di notizie su Misterbianco e la festa del patrono, Misterbianco: Tip. Lombardo e Licciardello.\n \nScuderi, Santina. 2001. La festa di s. Antonio Abate a Misterbianco : storia, devozione, folclore, Catania: G. Maimone."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di Sant'Antonio Abate"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Triennale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 15.006944444, 37.518333333 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:17d4f1e9-dec3-43d7-b1a4-6f8f9eb8d14f",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "23-24-25 Agosto"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:42a6556e-2bcf-4a3a-9746-666cdfdf759a"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "Festa Ranni"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La Festa Ranni, come vengono definiti i festeggiamenti per Sant'Anastasia, si svolge con cadenza quadriennale dal 23 al 25 agosto.  Giorno 23 gli spari di cannone ricordano alla cittadinanza l'inizio dei festeggiamenti per la Santuzza. La giornata è caratterizzata dalla tradizionale offerta della cera alla Patrona, preceduta dal corteo con i \"Cerei dei Rioni\". Per l'apertura ufficiale dei festeggiamenti bisogna attendere il pomeriggio dello stesso giorno, quando si svolge la tradizionale discesa delle \"Quartine\", vessilli che recano l’insegna di tutti i Rioni, simboleggiando la loro partecipazione alla festa.  Segue il corteo dei Rioni, accompagnato da una fiaccolata che fa da cornice a coreografie e scene ispirate al martirio della Vergine romana. La fila si conclude con lo spettacolo degli sbandieratori, che si uniscono al corteo una volta che questo è giunto in Piazza Umberto. La sera è la volta della suggestiva processione alla presenza di tutte le organizzazioni cattoliche, dei componenti delle Confraternite vestiti in abito tradizionale e delle autorità civili e militari.\nConcluso il corteo non è insolito incontrare coloro che, per devozione, percorrono le vie della processione per onorare la propria promessa di voto attraverso u viaggiu.\nIl 24 agosto intorno alle ore 10:00, nella Chiesa Madre gremita di fedeli in atteggiamento di attesa, inizia la solenne cerimonia dell'\"apertura\" della cameretta che contiene il simulacro con le reliquie e il fercolo della Santuzza. Questa, adornata di monili e oggetti preziosi, si rivolge con sguardo placido al popolo dei fedeli per benedirli. Nel pomeriggio dello stesso giorno il simulacro, con le reliquie della Santa, verrà posto sull'artistico fercolo, preceduto dai \"Cerei\". Per le strade riecheggia l'emozionante grido: \"Cittadini, cittadini tutti!\", seguito dalla corale \"Viva Sant'Anastasia\".  L'ultimo giorno dei festeggiamenti, il 25, l'alba è salutata dal suono delle campane che ricordano il martirio della Santa. In serata, dopo la solenne celebrazione presieduta dall'Arcivescovo di Catania, intorno alle ore 20:00, il simulacro della Santa percorre in processione le vie della città facendo una lunga sosta nella piazza del Rione Panzera dove viene innalzato un particolare arco e dove vengono eseguiti spettacoli che rievocano la vita della Santa. I festeggiamenti si concludono con gli spettacolari fuochi d'artificio che, in un luminoso gioco, ricoprono il cielo di colorate stelle cadenti. La tradizione vuole che queste, dissolvendosi, vorrebbero ricongiungersi misteriosamente al fuoco del martirio di Sant'Anastasia e al mito della resurrezione a nuova vita."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/18"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "Fonti storiche testimoniano che le manifestazioni religiose in onore di S. Anastasia risalgono già al '900, quando due raggruppamenti di persone, appartenenti a diversi ceti, si contesero la supremazia nell'animare la vita cittadina del paese e la buona riuscita delle manifestazioni religiose per la Santa. I partiti in questione erano il \"Partito dei Campagnoli\" e il \"Partito dei Maestri\". Il primo, nato nel 1820, comprendeva il ceto dei contadini, dal quale, nel 1883, nacque il \"Partito Panzera\" a seguito di una scissione interna. Il secondo, nato nel 1860, era costituito da operai e artigiani. I partiti svolgevano una funzione educativa per le giovani generazioni e invitavano al risparmio affinché si raggiungessero cifre ingenti per onorare e rendere omaggio alla Santa. In un secondo momento i partiti vennero chiamati \"Rioni\", in base ai quali era ed è suddiviso il paese: a nord il rione dei \"Maestri\", al centro i \"Campagnoli\" e a sud il rione \"Panzera\".\nLa festa ricorreva il giorno del martirio della Santa, il 25 dicembre, ma gli abitanti del luogo decisero di renderle onore nei giorni 23-24-25 agosto perché in quel tempo i raccolti dei campi facilitavano il reperimento dei fondi per i festeggiamenti."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Parte attiva nella festa sono i \"Partiti\", oggi chiamati \"Rioni\", che si esibiscono in un ordine prestabilito. Il primo è quello dei \"Giovani Maestri\", dai colori bianco e azzurro, seguito dal rione \"Vecchia Matrice\", riconoscibile dai colori giallo e verde e, infine, il rione \"Panzera\", dai colori bianco-rosso.  Coadiuvano l'organizzazione della festa il clero e le organizzazioni cattoliche, le confraternite, gli sbandieratori e la Commissione Feste."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Burgaretta, Sebastiano. 2005. Appunti di Viaggio. Folklore, storia e religiosità in Sicilia. Siracusa: Emanuele Romeo Editore.\n \nCorrenti, Santi. 2015. Guida insolita ai misteri, ai segreti, alle leggende e alle curiosità della Sicilia. Roma: Newton Compton."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa Santa Anastasia"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Quadriennale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.966666666, 37.5 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:5d8300a4-23d8-42c8-94bb-0db2b51ca6f0",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "19 Marzo"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:b211407e-5818-468a-8075-3c0132dfa8b9"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "."
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale/Patronale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "Il rituale di preparazione inizia il primo venerdì di marzo quando si procede alla semina de u lauri, il grano (i cosiddetti “giardini di Adone”), che si tiene umido e al buio, operazione ritenuta fondamentale alla preparazione del rituale della Cena, con chiari riferimenti ai riti solstiziali e alle feste agricole della fertilità con l'offerta delle primizie, l'ostentazione dei prodotti, l'orgia alimentare.\nLa settimana prima si iniziano a confezionare alcuni cibi da disporre nella tavola: per ogni voto bisogna eseguire tre grandi ciambelle di pasta, dette ucciddati, di circa 7/8 KG ciascuna, destinati a 3 poveri del paese, scelti dalla famiglia tra le persone più bisognose del paese, che il 19 rappresenteranno i “Santi” Gesù, San Giuseppe e Maria. Tra la sera del 17 e il 18, si inizia ad apparecchiare la tavola: ad una parete si fissa una coperta variopinta su cui si appende un quadro della Sacra Famiglia, davanti al quale viene accesa una lampada ad olio (a lampa), e tutt'intorno si decora con festoni di edera, grappoli di arance amare e limoni con foglie verdi; su uno scalino che funge da altare, ricoperto con tela di lino, si dispone un crocifisso con ai lati i piatti di grano germogliato. Ai piedi del crocifisso si poggia un pane raffigurante la varba, la barba di San Giuseppe, e tutt'intorno altri pani, il cosiddetto pani pulitu, raffiguranti u vastuni (il bastone) fiorito del Santo, le iniziali S e G, la Sacra Famiglia, a spera (la sfera), un cagnolino, un galletto, delle pere, un grappolo d'uva. Tutti gli elementi utilizzati per la decorazione della tavola/altare hanno una valenza simbolica: i ucciddati rappresentano l'uguaglianza tra gli uomini, a spera l'ostensorio, u vastuni fiorito la regalità del Santo, a varva il volto del Santo, a lampa la fede, u lauri il lavoro umano, le arance amare e i limoni le avversità della vita.\nTra ceste di primizie, vasi di fiori e grossi ceri, sono distribuiti vari tipi di biscotti locali, dolci, tra cui i cicirieddi, di farina e miele, la mostarda, la cubbaita, di miele e sesamo a forma di aquila monocipite, pasticci di spinaci e uva passa (pastizzi), verdure cotte, polpette, baccalà, olive, vino, frutta secca. La sera del 18 la tavola è imbandita e nulla si può togliere o consumare, fatta eccezione per qualche donna incinta alla quale appetisce un cibo particolare. La mattina del 19 si spigna la cena, ovvero si toglie il primo cibo dalla tavola per donarlo al Patriarca, da vendere in piazza all'incanto davanti la Chiesa Madre: in tale occasione vengono venduti prodotti tipici e di artigianato il cui ricavato è devoluto alla parrocchia e servirà per l'organizzazione delle manifestazioni religiose. Fino a quando non “mangiano i Santi” però nulla può essere toccato. Intanto chi ha fatto il voto prepara il bastone del Santo con legno di oleastro disponendovi in cima arance amare con foglie, nastri e l'immagine di San Giuseppe. I tre “Santi” con una corona di alloro in testa, tenendosi per mano, si recano in chiesa per la benedizione, insieme ad un componente della famiglia che ha promesso la cena e che li segue a piedi scalzi. Quando si torna verso le case per consumare i cibi, la marcia della banda musicale avverte i familiari che sprangano la porta di casa. I “Santi” bussano 3 volte alla porta di casa senza ricevere risposta fino a quando il Patriarca dice: “Gesù, Ggiseppe e Maria, o rapi tu o rapu iu!” (Gesù, Giuseppe e Maria, o apri tu o apro io!). A questo punto si apre la porta, appena entrati i “Santi” si lavano le mani con latte e vino e quindi San Giuseppe impartisce la benedizione: “Accantu accantu c'è l'Ancilu Santu, u Patri, u Figghiu e u Spiritu Santu!” (Accanto accanto c'è l'Angelo santo, il Padre, il Figlio e lo Spirito Santo!). Si recita allora un Ave Maria e un Padre Nostro e poi si offrono i cucciddati ai “Santi” che seduti a tavola iniziano il banchetto insieme a coloro che si recano a visitare la Cena. \nSe non hanno altri inviti i “Santi” tornano nelle loro case portando via un piatto con un po' di cibo avanzato, se hanno ricevuto altri inviti bisogna invece che si rechino nuovamente in chiesa per farsi benedire e ricominciare il rito.\nI festeggiamenti durano quindi diversi giorni e prevedono anche la processione del simulacro di San Giuseppe per le vie del centro, la sagra dei fiori, la degustazione dei prodotti tipici, la musica in piazza e i giochi di artificio finali.\n \nSCHEDA N.114 “Pani Pulitu della Cena di San Giuseppe”"
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/68"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "La tradizione della Cena di San Giuseppe risale al 1832, quando il Barone Guglielmo Vitale, dopo la sua morte, lasciò alla Chiesa Madre la rendita di tre vignali per solennizzare la festa del Santo, protettore del comune. In questa occasione si prepararono grandi tavolate, le cosiddette Cene, che ancora oggi i fedeli offrono al Santo per devozione o per grazia ricevuta."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Devoti al Santo, principalmente donne, che hanno sciolto un voto o ricevuto una grazia"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Giallombardo, Fatima. Festa di S. Giuseppe in Sicilia, vol. 1. Archivio delle tradizioni popolari siciliane, 5. Palermo: Folkstudio, 1981.\n \nGiallombardo, Fatima. 2003. La tavolata l'altare la strada. Scenari del cibo in Sicilia. Palermo: Sellerio Editore.\n \nPitrè, Giuseppe. Feste patronali in Sicilia. Biblioteca delle Tradizioni Popolari Siciliane, 11. Sala Bolognese: Forni Editore, 1979.\n \nPitrè, Giuseppe. Spettacoli e feste popolari siciliane. Biblioteca delle Tradizioni Popolari Siciliane, 12. Bologna: Forni Editore, 1980.\n \nUccello, Antonino. 1976. Pani e dolci di Sicilia. Palermo: Sellerio."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Cena di San Giuseppe"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.523888888, 36.827222222 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:0beaf674-92bb-4ed1-91d9-4d5977b3192b",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "20 Gennaio"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:d9fef1e6-357c-46e9-bacb-c7c56fa75d7f"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "Sammastianu"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Patronale, devozionale e propiziatoria"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La lunga festa in onore di San Sebastiano inizia il 10 gennaio con il suono della campana e l'esposizione del Santo alla Città. L'evento rappresenta un concentrato di pratiche rituali, tradizioni e manifestazioni di religiosità popolare: preghiere, fuochi evocativi e purificatori, processioni, spari di mortaretti, creazione di spazi sacri delimitati da alberi magici, processioni di alberi di alloro e di biancospino, devoti che per voto si vestono di bianco e conducono il Santo a piedi nudi, anche attraverso le acque gelide del tutte vie del paese, fino a tarda sera; devoti che al suono della fanfara fanno correre il Santo; devoti che durante il percorso mangiano e bevono vino per affrontare il freddo e la fatica. Durante questo periodo di festa, si svolge anche la benedizione e la distribuzione di pani, “panitti i Sammastianu”; si svolge la funzione del Perdono, “u pirdunu”, quasi a scusarsi per gli eccessi commessi nei giorni di festa, con la distribuzione ai fedeli di frammenti di cotone considerati reliquie del Santo. Si rievocano episodi storici, “a fuiutina da vara”, il tentativo di trafugamento della vara da parte di una comunità devota a San Sebastiano, forse proprio quella di Melilli.\nIl programma dei festeggiamenti prevede diverse fasi principali distribuite in più giorni: apre la “festa d'a bura”, che consiste in una la fiaccolata notturna per le vie del paese, durante la quale i fedeli portando fasci accesi di infiorescenze di ampelodesmo, pianta sacra ai defunti, che vengono distribuiti a tutti i presenti sul portale della Chiesa della Matrice. La processione, accompagnata dal suono di un tamburo, rievoca la ricerca ed il ritrovamento, da parte dei Cristiani, del corpo ancora in vita del Santo, dopo aver patito il supplizio delle frecce. Alla fiaccolata partecipano sia gli anziani del paese, che per voto ogni anno portano le fiaccole, sia i giovani, che a fine percorso saltano e sfidano un grande falò purificatore, che viene acceso ed alimentato dai resti dei fasci portati in processione e raccolti sul sagrato della chiesa. Ancor oggi, gli anziani di Tortorici, uomini e donne, per voto conducono una fiaccola in processione.\nLa domenica precedente la Festa, in mattinata, al rientro dalla processione di Sant’Antonio Abate, i devoti danno inizio alla Sfilata dell'Alloro lungo le vie della città fino alla Chiesa di Santa Maria Assunta, dove portano l’alloro o l’agrifoglio creando così un improvvisato bosco magico. L'alloro rievoca il bosco sacro ad Adone dove San Sebastiano, legato nudo ad un albero, è stato bersagliato dalle frecce dei feroci arcieri della Mauritania.\nLa festa cade sempre il 20 gennaio e i devoti che hanno un voto da sciogliere, vanno “nudi” al Santo e in segno penitenziale vestono di bianco con camicia e pantalone, un fazzoletto piegato a mo’ di triangolo al cinto e a piedi nudi. Le donne, a piedi nudi, indossano camice e gonne bianche, il fazzoletto copre la testa e precedono e seguono, nella processione o nella questua, il Santo. \nIl rito religioso si celebra nella Chiesa di Santa Maria Assunta, con la partecipazione delle autorità locali, preceduti dai mazzieri che si recano in Chiesa consegnando, in segno di omaggio al Santo, le chiavi della città. A mezzogiorno inizia la Processione per le vie della Città che viene aperta da tre chierichetti vestiti con tunica bianca e rossa conducendo una Croce astile; segue il parroco, la “vara” sostenuta da minimo sedici potatori, e tutti gli altri uomini, membri dei “nuri”, vestiti di bianco, a piedi scalzi, circa un centinaio. Li seguono le donne ed i bambini tutti vestiti di bianco. La banda musicale attende il corteo fuori dalla Chiesa e lo precede per i primi tratti della processione. Segue disordinatamente tutto il corteo di fedeli. Al suono della Campana e al grido \"grazie San Bastiano, grazie!\" si avvia il lungo corteo. L'artistica \"Vara\" è portata solo dai “nuri”, in segno di privilegio e obbligo penitenziale. Durante il lungo percorso i portatori della vara alternano passi a balli, provocando la danza del fercolo in mezzo alla folla. Per tale motivo il ricambio dei portatori avviene di continuo, in quanto la loro funzione risulta particolarmente faticosa dato il peso dell’intero fercolo. La prima tappa della Processione è nel Fiume Calagni dove i devoti fanno sostare la vara invocando la grazia. Dopo la sosta inizia la “questua”, ovvero l’offerta e il Santo viene portato per le vie della città rientrando nella Chiesa di San Nicolò dove permane fino all'ottava. \nLa festa in onore del Santo patrono viene ripetuta nella domenica più vicina al 9 maggio."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/47"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "San Sebastiano è uno tra Santi più conosciuti, venerati ed amati di tutta la Sicilia. La diffusione del suo culto fa seguito al flagello causato dalla peste in Sicilia che fu annientata grazie all’intervento taumaturgico del Santo. A Palermo, infatti, dopo il 1575, per ringraziamento il Senato stabilì che in onore del Santo si celebrasse una solenne festa durante la quale la statua di San Sebastiano e quella di San Rocco si incontravano, portati entrambi in processione da gruppi di fedeli presso i quattro canti di città: in questo incrocio le due statue solevano incontrarsi e si inchinarsi in forma di saluto.\nIl culto del Santo è molto diffuso anche nella provincia di Siracusa, a partire dal paese di Melilli, soprattutto a seguito del terremoto del 1693: alla fine del mese di aprile ogni anno, una solenne manifestazione in onore del Santo è celebrata dall'arrivo degli \"ignudi\", ovvero i pellegrini devoti, che arrivavano a piedi da tutta la Sicilia, indossando soltanto una foglia di fico, identificandosi simbolicamente con Adamo, l'iniziatore del genere umano. \nAltri importanti e solenni festeggiamenti in onore del Santo si hanno ancor oggi a Francofonte, Palazzolo Acreide, Acireale, Avola, Buscemi, Barcellona, Cerami, Ferla, Gaggi Graniti, Limina, Maniace, Mistretta, Mongiuffi Melia e soprattutto a Tortorici. Qui si svolge una delle feste più lunghe ed articolate di Sicilia, con festeggiamenti che si sviluppano nell'arco di circa venti giorni, dal 10 gennaio fino alla fine del mese. \nLe origini della festa a Tortorici risalgono al miracoloso ritrovamento delle reliquie di San Sebastiano e della campana della chiesa di Santa Maria durante l'alluvione che investì il paese nel 1682 (u diluviu): un impetuoso torrente di fango si riversò per le vie del paese ma solo due pellegrini provenienti da Roma con le reliquie di San Sebastiano e la campana furono trattenuti da una forza misteriosa nei pressi del torrente Calagni e dal quel momento il Santo fu proclamato “Patrono di Tortorici”."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Autorità civili (il Sindaco) e religiose (vescovo e parroco), i mazzieri (portatori delle chiavi della città), i “nuri” (fedeli che hanno fatto voto) portatori della vara del Santo, le confraternite, le donne vestite di bianco che precedono il simulacro."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale dei fedeli, turisti"
+  },
+  "filmography" : {
+    "type" : "Property",
+    "value" : "Festeggiamenti in onore di San Sebastiano a Tortorici.\nIl documento video cinematografico in DVD sulla festa di San Sebastiano (87 SBCA ME//0002)"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Buttitta, Ignazio. 1992. Feste dell’alloro in Sicilia, Palermo: Fondazione Ignazio Buttitta.\n \nCosta, Orazio. 1989. Feste popolari nel messinese, Messina: Archivio Librario Falcone.\n \nFalcone, Nino. 1977. Feste religiose dei Nebrodi, Marina di Patti (ME): Edizioni Pungitopo.\n \nFranchina, Sebastiano. 1982. Tortorici - Tradizioni popolari, Milazzo: Edizioni Spes.\n \nPitrè, Giuseppe. 1881. Spettacoli e feste popolari siciliane, Palermo: Pedone-Lauriel.\n \nPitrè, Giuseppe. 1886. Alberi e piante negli usi e nelle credenze popolari siciliane, Palermo: Archivio per lo Studio delle Tradizioni Popolari, v. V, pp. 119-128 e 165-196.\n \nPitrè, Giuseppe. 1889. Usi e costumi, credenze e pregiudizi del popolo siciliano, Palermo: Pedone-Lauriel.\n \nPitrè, Giuseppe. 1900, Feste patronali in Sicilia, Torino-Palermo Clausen."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa del Bimartire San Sebastiano"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.824166666, 38.030833333 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:9a434bd1-fc42-4ba9-a24d-fe5ed01b14c8",
+  "type" : "PatronalFestival",
+  "hasProvince" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:a4bee358-67d8-4ab9-906c-a59c652e4a01"
+  },
+  "date" : {
+    "type" : "Property",
+    "value" : "23-24-25 Luglio"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:4e99af6f-d26b-40e7-b47d-96dde3524afc"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "I festeggiamenti del patrono si svolgono fra il 23 e il 25 luglio.\nIl 23 luglio arricchisce la cittadina di varie manifestazioni: si allestisce una grande fiera, artisti e artigiani locali espongono i prodotti del loro lavoro e il giardino comunale risuona di musiche eseguite da diverse bande comunali.\nLa notte del 24 luglio l'arca contenente le reliquie del Santo viene portata in processione, preceduta dal tintinnabolo e dal padiglione, insieme alla pesantissima vara con la statua di San Giacomo. Lo spettacolo più suggestivo dei festeggiamenti è costituito dall'illuminazione della scala seicentesca di Santa Maria del Monte, nota per le decorazioni in ceramica che caratterizzano l'alzata di ogni gradino. Dal basso verso l’alto, i disegni delle piastrelle ripercorrono la storia della ceramica calatina. Nelle giornate del 24 e del 25 luglio i 130 metri della scalinata, che congiungono la Piazza del Municipio e lo spiazzo antistante la chiesa di Santa Maria del Monte, vengono ricoperti da migliaia di coppi di carta colorata disposti in modo da formare un immenso arazzo luminoso. Al suo interno vengono posti lucignoli a olio. Il disegno, unico per tutta la distesa, è ispirato alla Città o al Santo Patrono. Privata la scala della moderna illuminazione, al segnale del capomastro, calatini e turisti insieme illuminano le singole lucerne per mezzo di bastoncini lunghi e stretti che ricordano gli antichi bucceddi, fuscelli secchi di pianta selvatica.  La sera del 25 luglio, mentre la Scala è illuminata, giunge in Piazza Municipio la processione accompagnata dal Corteo Storico del Senato Civico, costituito da figuranti in costume siecentesco, e dalle Autorità civili e religiose. E’ in Piazza Municipio che la Città offre il massimo tributo al Santo Patrono, culminante con la solenne benedizione del Vescovo impartita a tutta la popolazione con la Reliquia del Santo."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/12"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "La città di Caltagirone è stata affidata alla protezione di San Giacomo già nel lontano 1090-1091, quando il conte Ruggero d'Altavilla entrò nella città calatina il 25 luglio, giorno della festa del santo, a seguito della vittoria contro i Saraceni, durante la quale i calatini furono parte attiva. A seguito di questa coincidenza Ruggero decise di dedicare un tempio all'apostolo per ringraziarlo della vittoria ottenuta e per affidargli la tutela della città. Distrutta nel terremoto del 1693, l’edificio sacro conserva in originale la cappella che custodiva la \"Cassa Argentea ed il Fercolo del Santo\". Ecco perché la tradizione vuole che il Santo, ancora oggi, preservi dai \"terremoti\"."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "I figuranti del Corteo Storico del Senato Civico, il clero, le Autorità civili e la famiglia Russo, artigiani detentori delle tradizionali tecniche di realizzazione dei \"coppi\"."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "La comunità locale e i turisti partecipano attivamente all'accensione delle lucerne decorative della Scala di Santa Maria del Monte."
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Attanasio, Maria e Giuseppe, Leone. 2000. Il divino e il meraviglioso: feste religiose di Sicilia. Palermo: B. Leopardi.\n \nCardella, Antonio. 2002. Santi riti e leggende del popolo siciliano. Palermo: Sigma.\n \nCattabiani, Alfredo. 1999. Santi d'Italia. Vita, leggende, iconografia, feste, patronati, culto. Milano: Bur.\n \nMarino, Gabriele e Rosario Termotto, a cura di. 2004. Conoscere il territorio: Arte e Storia delle Madonie. Studi in onore di Nico Marino. Cefalù: Associazione Cuturale \"Nico Marino\"."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Giacomo"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.51249980926514, 37.23749923706055 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:40035261-1ea0-400b-8c50-f8767e07d3cb",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "15 Agosto"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:36ac1210-c4e1-4cc1-a372-57ad0d9377de"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale/Patronale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La festa celebra l'Assunzione della Madonna e si svolge tra riti religiosi e tradizioni popolari. Le celebrazioni religiose iniziano con la messa vespertina della vigilia, il 14 agosto, officiata ai piedi della maestosa Vara votiva: una vera e propria macchina con apparati scenografici mobili, alta 13,50 metri e costituita da scene e figure che rappresentano, nella parte bassa, la morte della Vergine e, nella parte sommitale, il trionfo dell'Assunzione. La mattina del 15 viene preparata la Vara, fissando ad essa delle funi con la quale verrà trainata lungo il percorso processionale di tre chilometri. L'inizio vero e proprio della festa viene segnalato dallo sparo di alcuni colpi di cannone dalla statua della Madonna della Lettera al porto; quindi la mattina è dedicata alle celebrazioni religiose, mentre nel pomeriggio inizia la processione. Il percorso ha inizio da Piazza Castronovo: la Vara viene trainata dai tiratori lungo via Garibaldi; all'incrocio con via I Settembre avviene quella che, tradizionalmente, viene definita la “girata”, una complessa manovra che deve far ruotare la Vara su se stessa per consentirle l'ingresso lungo la via. Il percorso termina in piazza Duomo. Lo sparo dei fuochi d'artificio dal porto conclude la festa."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/36"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "Il culto dell'Assunta si diffuse nel mondo cattolico ancor prima della proclamazione ufficiale del Dogma, avvenuta nel 1950 da parte di Papa Pio XII. La festa messinese, ha origini antichissime: il Pitrè rintraccia riti e tradizioni legate ad essa fin dal XVII secolo."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Tiratori: per devozione tramandata da padre in figlio, i cosiddetti tiratori, hanno il compito di trascinare, per mezzo di lunghe funi, la Vara, rappresentante l'Assunzione della Vergine Maria, incitati dal grido di \"Viva Maria\". Indossano abiti bianchi e sono scalzi."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Cardella, Antonio. 2002. Santi riti e leggende del popolo siciliano. Palermo: Sigma.\n \nCroce, Marcella. 2004. Le stagioni del sacro. Almanacco delle feste popolari. Palermo: Dario Flaccovio.\n \nPitrè, Giuseppe. 1979. Feste patronali in Sicilia. Sala Bolognese: Forni."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa dell'Assunta"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 15.55416679382324, 38.19361114501953 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:71a455ba-3624-47d5-9064-0951575076f5",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "3 Giugno"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:36ac1210-c4e1-4cc1-a372-57ad0d9377de"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "Ogni anno, il 3 giugno, la città di Messina ricorda la consegna della Sacra Lettera alla delegazione di Messinesi in visita alla Madonna, rinnovando la devozione alla loro Patrona. Viene portato in processione il reliquiario contenente i capelli con i quali la Madonna (secondo la tradizione) legò la Sacra Lettera e una statuetta argentea posta su una vara, anch'essa d'argento. La processione si snoda per un percorso di circa 3 km tra le vie della città, preceduta da tutte le confraternite della diocesi, in abito tradizionale disposte su due file.\nDurante la settimana antecedente la festa, tutti i giorni alle 13:00, le campane della città suonano per ricordare ai cittadini l'ora del rientro in patria dell'ambasceria alla Madonna.  In occasione della festa, il dipinto posto sull'altare maggiore della cattedrale, raffigurante la Madonna con il Bambino, viene ricoperto dalla cosiddetta Manta d'oro, sostituendo quella in argento che ricopre quotidianamente il dipinto. La Manta è la riproduzione in oro cesellato delle vesti della Madonna e del Bambino."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/37"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "L'episodio, tramandato dalla tradizione e dalla fede, legato alla festa della Madonna della Lettera, risale al 42 d.C., anno in cui un gruppo di messinesi, in rappresentanza dell'intera città, convertitasi al cristianesimo grazie alla predicazione di San Paolo, si recò in Terra Santa per rendere omaggio alla madre di Cristo, ancora in vita. Qui, accolti dalla Madonna il 3 giugno, ricevono una lettera in cui Ella assicura in eterno la sua protezione alla città. L'8 settembre dello stesso anno, i messinesi tornano in patria.  Il culto dei messinesi alla Madonna della Lettera si sviluppa nel XVI secolo, la data fissata per la festa era inizialmente l'8 settembre, in ricordo del rientro dell'ambasceria.  Il 30 luglio 1636 un atto del Senato di Messina fissa ufficialmente al 3 giugno la data della festa, facendo riferimento, quindi, alla data in cui avvenne la visita alla Madonna. Nel 1716, quando il basiliano Gregorio Arena portò a Messina la traduzione della presunta lettera scritta dalla Madonna (traduzione da un codice arabo, appartenuto al vescovo di Mardin e, a sua volta avuto dal patriarca di Antiochia, Ignazio) la Madonna della Lettera venne eletta ufficialmente Patrona della città e da allora la festività del 3 Giugno divenne più solenne."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Le confraternite della diocesi di Messina nei loro abiti tradizionali sfilano composte in due file ai lati della processione."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Messina : Assessorato alla pubblica istruzione. 1992. Feste, fiere, mercati. S.d. Messina: EDAS."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa della Madonna della Lettera"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 15.55416679382324, 38.19361114501953 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:fe50045b-85a0-46b8-84dd-741dbf474f6b",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "20 Febbraio"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:453aefbd-bf8b-4c81-baba-093f06bcb3c9"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "Miracoli di Santu Liu"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Celebrativa/Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La festa di San Leone è una celebrazione dedicata al patrono di Sinagra che consta di due momenti: la Domenica di Pasqua, il Lunedì dell’Angelo e l’8 maggio.\nL'interesse ruota intorno alle celebrazioni del Patrono San Leone, la cui ricorrenza cade il 20 febbraio, ma per antichissima usanza viene festeggiato la sera della domenica di Pasqua, momento in cui la statua del santo viene portata in processione dalla chiesa di campagna al paese. Giovani e meno giovani, tutti in fila, per trasportare a spalla la statua del Patrono del paese, San Leone, che preferì Sinagra al ruolo di Vescovo di Catania, nell'ultimo tratto della Processione la vara con la statua viene trainata \"di corsa\" sul ponte situato all’ingresso del paese intorno alle ore 23.00, dopo la processione, dal procedere lento, che dura circa quattro ore, con il classico “due passi avanti e uno indietro”, che simboleggia l’indecisione del Santo nel ritornare a Catania, dove svolgeva l’attività di Vescovo. Alla vista del paese il Santo “non ha più dubbi”, sceglie Sinagra e va incontro al suo popolo correndo in maniera sfrenata. Questa fase della festa della domenica di Pasqua viene denominata “Miracoli di Santu Liu\", ovvero una corsa della pesante statua del Santo, devotamente portata a spalla dai fedeli, al grido di “viva Santu Liu”, che irrompe sulla folla.\nLa tradizione vuole che proprio durante questa fase delle celebrazioni, in passato come ancora oggi, avvengano i “Miracoli di Santu Liu”.\nLa festa prosegue con la processione del lunedì di Pasqua che anticamente veniva a coincidere con la fiera del Lunedì di Pasqua; durante la giornata vi è anche \"La Fiera del lunedì di Pasqua\" in passato molto sentita.\nIn maniera analoga alla “Corsa di Pasqua”, l'8 maggio si ripete la Festa del Patrono, durante la quale con grande partecipazione di popolo, si svolgono sfilate di bande musicali e i giochi pirotecnici. Si ripete la spettacolare traversata di corsa a partire dalle 15,00 e dopo aver attraversato il paese, il simulacro sosta davanti la “pietra di San Leone”, in contrada Vallone d’Orecchia, dove la tradizione narra dell’incontro tra il Santo taumaturgo e il diavolo scacciato dal suo gesto (il segno della Croce, che oggi è inciso sulla pietra). La processione si conclude con l’arrivo alla Chiesa Madre dove il Simulacro rimarrà fino al 1° Novembre, per poi essere riportato nella chiesa di campagna per la stagione invernale, in memoria dell’eremitaggio del Santo."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/46"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "Leone II, detto il Taumaturgo, è nato a Ravenna nel 710 ed è stato nominato il vescovo di Catania nel 765, dedicandosi a combattere le eresie. Negli del suo vescovado nell'Impero bizantino era in atto l’iconoclastia, ovvero la distruzione delle icone sacre e coloro che non ubbidivano all'editto venivano incarcerati. Leone si oppose a questa legge e per tale ragione il governatore della Sicilia ne ordinò l'arresto e Leone fu costretto a rifugiarsi sulle montagne verosimilmente a Sinagra (Vallone d’Orecchia) dove visse come eremita in una grotta. Dopo molti anni ritornò a Catania dove riprese il suo seggio vescovile e dove morì il 20 febbraio 789.\nIl culto del santo vescovo è rimasto vivo nel ricordo dell'arcidiocesi catanese. Promotori e grandi divulgatori della devozione al santo furono i padri benedettini. Pur essendo inserito nel calendario delle celebrazioni il 20 febbraio, il Santo a Sinagra viene festeggiato la sera di Pasqua e il lunedì di Pasquetta. La festa di San Leone infatti rievoca la leggenda del tentato furto delle spoglie di San Leone, secondo cui alcuni Catanesi, nel tentativo di furto delle spoglie del Santo, la sera di Pasqua, dopo aver camminato tutta la notte, all'alba, si ritrovarono allo stesso punto di partenza e spaventati dall'evento si diedero alla fuga."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Autorità civili (il Sindaco) e religiose (vescovo e parroco), i portatori della vara del Santo, le confraternite"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale dei devoti, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Alaimo, Francesco. 1998. Nebrodi. Appunti di viaggio tra storia e cultura dei Comuni del Parco, Palermo: Fabio Orlando Editore.\n \nFalcone, Nino. 1977. Feste religiose dei Nebrodi, Marina di Patti (ME): Edizioni Pungitopo.\n \nGiunta, Giuseppe. 1985. Storia, folklore, monumenti, Paesaggi di 65 località del Messinese, Messina: Grafiche Scuderi s.a.s."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Leone"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.85, 38.083333333 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:9448e873-4bb3-43ed-b20f-d3823453ac30",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "4 Aprile (festa storica); oggi l’ultima domenica di Giugno"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:c852e5eb-7d9e-45cb-97fd-835f35ed161d"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "Il Santo Moro"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Commemorativo/devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La festa di San Benedetto il Moro a Palermo celebra la commemorazione della morte del Santo “moro” di Sicilia, nativo di San Fratello e compatrono della città insieme a Santa Rosalia. In Sicilia il Santo viene festeggiato solennemente in giorni differenti a seconda della città che lo celebra. In particolare a San Fratello viene celebrato il 17 settembre e ad Acquedolci la prima domenica del mese di agosto.\nA Palermo la festa consiste in una commemorazione della morte del Santo avvenuta il 4 aprile del 1589 presso la medesima città. Su delibera del 24 aprile del 1652 il Senato Palermitano istituì la festa, proclamando il Santo compatrono e intercessore della città e impegnandosi a recarsi in pellegrinaggio al suo sepolcro ogni anno nell’anniversario della sua morte portando quattro grossi ceri. Oggi la festa di San Benedetto è stata spostata all’'ultima domenica di giugno e costituisce un momento celebrativo che coinvolge tutta le autorità civili e religiose della città di Palermo.\nLe celebrazioni iniziano il giovedì con l'alborata e la fiaccolata sul monte Grifone, suggestivo luogo dove è sito il Convento di Santa Maria di Gesù ove sono custodite le spoglie del Santo moro. Si prosegue il venerdì con la messa celebrata insieme ad alcuni fedeli provenienti dal Brasile, alcune conferenze e la sera si tiene il concerto della corale della Polizia municipale. Il sabato si organizzano altri incontri e una piccola fiera di prodotti tipici locali. La celebrazione si chiude la domenica con la solenne liturgia presieduta dall’Arcivescovo di Palermo, in presenza del Sindaco della Città che farà la tradizionale offerta dei ceri. Conclude la solenne processione per le vie della borgata di Santa Maria di Gesù.\nA novembre del 2013 nella ricorrenza del 361° anniversario della proclamazione a parte del Senato palermitano di San Benedetto quale Patrono della città (1652) e nel 270° anniversario di Beatificazione da parte del Papa Benedetto XIV (1743) il Comune di Palermo e l’Assessorato Regionale dei Beni Culturali e della Identità Siciliana hanno inaugurato il \"Giardino di San Benedetto il Moro\" presso il Convento di Santa Maria di Gesù dove si trova ancora oggi il “Cipresso di San Benedetto” uno degli alberi più antichi della città, che secondo la tradizione ha avuto origine dalla prodigiosa radicazione del bastone che San Benedetto \"il Moro\" aveva infisso nel terreno accanto alla piccola casupola, oggi divenuta cappella, in cui egli visse come eremita."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/59"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "San Benedetto Manasseri, detto anche Benedetto da San Fratello e Benedetto il Moro nasce a San Fratello (PA) nel 1524 da Cristoforo e Diana, provenienti dall’Africa e condotti in Sicilia come schiavi: il suo culto si è diffuso in Sicilia sin dalla sua morte avvenuta a Palermo il 4 aprile 1589. \nAll’istituzione della sua festa concorsero vari eventi, a partire dai miracoli compiuti dal Santo che ne ricordano le sue qualità di taumaturgo; in seguito il 24 aprile del 1652 il Senato Palermitano lo proclamò compatrono insieme a Santa Rosalia e intercessore della città, impegnandosi a recarsi ogni anno nell’anniversario della sua morte in pellegrinaggio al suo sepolcro portando quattro grossi ceri; il 15 maggio 1743 il papa Benedetto XIV lo proclamò beato e negli anni successivi continuarono le richieste della canonizzazione, finché nel 1777 fu riconosciuta dalla Congregazione dei Riti l’eroicità delle sue virtù, nel 1790 la veridicità dei miracoli da lui compiuti e il 24 maggio 1807, infine, la proclamazione come Santo della Chiesa Cattolica da parte di Papa Pio VII con la Bolla Civitatem Sanctam (il primo santo nero della storia).\nA seguito della sua canonizzazione si diffuse la festa in tre diverse comunità: nella sua città natale, a San Fratello, dove il Santo viene celebrato dal 9 al 17 settembre; il 4 aprile a Palermo dal 1652 in ricordo della sua morte; ad Acquedolci, l’ultima settimana di agosto. Il culto è vivo anche in Spagna e soprattutto in Sudamerica, dove viene riconosciuto come santo protettore delle persone di colore."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Autorità civili (il Sindaco) e religiose (Arcivescovo di Palermo), portatori dei ceri, confraternita del Gesù di Palermo, confraternite di San Fratello, confraternita di Acquedolci"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Intera comunità cittadina, devoti, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Fiume, Giovanna. 2002. Il Santo Moro, Palermo: Franco Angeli Storia.\n \nIraci, Benedetto. 2009. Bibliografia su San Benedetto il Moro. Opere edite, inedite e manoscritte su San Benedetto il Moro da San Fratello, Melegnano (MI): Montedit.\n \nMorabito, Vittorio. 2000. San Benedetto il Moro, da Palermo, protettore degli africani di Siviglia, della penisola iberica e d'America latina, in Negros mulatos zambaigos. Derroteros africanos en los mundos ibéricos, a cura di B. Ares Queija e A. Stella, Siviglia: Escuela de estudios hispano-americanos."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa e Culto di San Benedetto il Moro"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 13.35166645050049, 38.11111068725586 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:22c2cae4-a1c3-487b-b272-7f1775f6bc31",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "Ultima domenica di Agosto / 6 Dicembre"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "I festeggiamenti dell'ultima domenica di agosto sono i più acclamati e richiamano in paese gli emigrati. I riti cominciano già la domenica precedente la festa vera e propria, quando il simulacro di San Nicola viene rimosso dalla nicchia posta sull'altare maggiore della Chiesa Madre, ad egli dedicata, per essere portato più vicino ai fedeli ai piedi dell'altare. Ogni azione è accompagnata dagli applausi, dalla musica suonata dalla banda e dall'organo, dal suono a festa delle campane e dai fedeli che intonano l'inno Viva viva Santa Nicola. Tutta la settimana, fino ai vespri solenni del sabato, è scandita da funzioni liturgiche. La mattina della domenica (ultima di agosto), fulcro della festa, viene celebrata la solenne \"messa cantata\" a conclusione della quale vengono distribuite ai fedeli le cosiddette panuzzedda,: cialde fatte di farina e acqua ed essiccate al sole che riportano impressa l'effige del santo. Nel tardo pomeriggio, la statua viene portata in processione lungo un percorso fissato dalla tradizione tra le strade del paese. Il corteo si snoda secondo un ordine preciso: in testa vi è la confraternita del Sacro Cuore, segue la confraternita della Pia Unione delle Figlie di Maria, poi quella di San Nicola, successivamente si dispongono in processione le autorità religiose e quindi la statua di San Nicola, seguita a sua volta dalle autorità militari e civili, dalla banda e in coda tutti i fedeli. Percorsi il Ponte Nuovo, il rione Misericordia, il Ponte Vecchio, Piano Molino, rione Carmine, rione Basso e da ultimo la via Roma, la processione ritorna in Piazza Duomo e la statua rientra in chiesa. Ogni rione saluta il passaggio del Santo con lo sparo di fuochi d'artificio. A mezzanotte lo spettacolo pirotecnico conclusivo illumina il cielo di Gualtieri Sicaminò.\nNel giorno in cui la chiesa celebra la festa liturgica di San Nicola, il 6 Dicembre, le funzioni si svolgono solo in chiesa con le rituali preghiere e la novena che scandisce i nove giorni precedenti il 6. Nei giorni 3-4-5, al termine della novena, alcuni uomini riuniti in gruppi e accompagnati dalla banda musicale, passano di casa in casa chiedendo un'offerta di fichi e nocciole, cantano l'inno Viva viva Santa Nicola. Nel giorno dedicato alla festa liturgica solenne del Santo patrono, alcuni spari e il suono a festa delle campane dà inizio, di prima mattina, alle celebrazioni. La giornata è interessata da diverse celebrazioni eucaristiche in onore del Santo."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/33"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "La presenza del culto di San Nicola a Gualtieri Sicaminò sembra segnalata già nel XII secolo, poiché in tale periodo era già esistente una località di Sicaminò chiamata \"San Nicola\". Nel Settecento, la festa dedicata al santo patrono era celebrata solo il 6 dicembre (festa liturgica – data della morte del santo)."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Gruppi di uomini accompagnati dalla banda musicale e preceduti dal bettalaru (portatore della bisaccia), bussano di porta in porta chiedendo fichi e noci (giorni 3-4-5 precedenti la festa del 6 Dicembre).\nBettalaru è colui che raccoglie nella sua bisaccia le offerte ricevute.\nLe autorità locali lanciano le nocciole dai balconi su Piazza Duomo."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale e gli emigrati che tornano in paese per la festa,turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Biviano, Franco. 2012. Presente e passato di Gualtieri Sicaminò. Gualtieri Sicaminò: Comune."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Nicola di Bari"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:e353c77c-9d51-4aad-a8c8-9f97f4080709",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "6 Dicembre"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Tradizionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "Nel giorno in cui la chiesa celebra la festa liturgica di San Nicola, il 6 Dicembre, a Gualtieri Sicaminò le funzioni si svolgono solo in chiesa con le rituali preghiere, le celebrazioni eucaristiche e la novena che scandisce i nove giorni precedenti la festa. Nei giorni 3-4-5 dicembre, alcuni gualtieresi, dopo la novena, si riuniscono in gruppi. Ciascuno di essi, preceduto dal cosiddetto bettalaru (portatore della bisaccia) e accompagnato dalla banda musicale, bussa di porta in porta per le vie del paese, chiedendo un'offerta di fichi, noci e nocciole (chiedono in dialetto fica e nuciddi ). Viene rievocata così una delle scene descritte tra le strofe dell'antico inno a San Nicola che viene intonato prima di bussare: Viva, viva Santa Nicola.\n \nCh'è lu nostru caru patri\nE nui semu amati figghi.\nE apposta vinimmu e pi cantari.\nE' longa a via c'avemu a fari.\nE bettularu, e chiana cca, chi lu Santu ci pruvvidirà;\ne ci pruvvidi e ci cunsola,\nViva, viva Santa Nicola!\n \nIn questo contesto, la tradizionale Nocciolata consiste nel lancio di nocciole che le autorità fanno dai balconi su Piazza Duomo. La folla per strada attende il lancio, oltre mille chili di frutta secca dal guscio legnoso che picchia sulle teste di un pubblico composto da anziani e giovani che cercano di raccoglierne il più possibile. Per i più piccoli la distribuzione delle nocciole avviene a parte, evitandogli il lancio dall'alto. Il legame di questo secolare gesto tradizionale con San Nicola è dovuto al fatto che il Santo è riconosciuto come dispensatore non solo di grazie spirituali ma anche materiali. Infatti, molti prodigi tramandati dai fedeli raccontano di distribuzione di alimenti in tempi di carestia e i suoi devoti si rivolgono a lui per ogni occasione: fame, pestilenze, guerre, terremoti, calamità naturali… Le nocciole sono inoltre frutto autunnale e simbolo di fertilità già ai tempi dei romani, che proprio nel periodo del mese di dicembre festeggiavano i Saturnalia, feste in onore del dio Saturno (dio della semina, considerato generoso dispensatore dei frutti della terra). È possibile che la tradizione e la devozione a San Nicola si sia mischiata ad antichi elementi pagani di tradizione romana.\n \nConfronta schede:\nSCHEDA N.142 \"Festa di San Nicola di Bari\""
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/34"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "La Nocciolata, legata alla festa liturgica di San Nicola, risale probabilmente al Settecento. Già all'epoca, la parrocchia si occupava dell'acquisto delle nocciole e del montaggio di un apposito \"castello\" per consentirne il lancio dall'alto."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Gruppi di uomini accompagnati dalla banda musicale e preceduti dal bettalaru (portatore della bisaccia), bussano di porta in porta chiedendo fichi e noci (giorni 3-4-5 precedenti la festa del 6 Dicembre).\nBettalaru è colui che raccoglie nella sua bisaccia le offerte ricevute. Le autorità locali lanciano le nocciole dai balconi su Piazza Duomo."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale,turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Biviano, Franco. 2012. Presente e passato di Gualtieri Sicaminò. Gualtieri Sicaminò: Comune."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Nocciolata"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:630f5d65-3c20-4ea6-84ce-b4673cac1a10",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "8 - 15 Settembre"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:fbda7561-9c96-4692-9ad2-cc77f71d9053"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "Festa di la Bedda Matri De' Miraculi"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La celebrazione della festa è legato al miracolo del paralitico e all'adorazione dell'immagine della Vergine, autrice della grazia. Il piccolo paese di Mussomeli si appresta a predisporre i preparativi per la festa di settembre due mesi prima, in cui il Comitato della Congregazione di Maria Santissima dei Miracoli ingaggia la banda musicale, predispone illuminazione, fuochi e tamburi e concorda con il Rettore del Santuario i nomi dei due predicatori che terranno le omelie l'8 settembre, data della festa, e per gli otto giorni successivi. La celebrazione in onore di Maria SS. ha inizio alle prime luci dell'alba con le sante messe e la questua, momento di raccolta di offerte per le case del paese. Segue nel pomeriggio il momento più suggestivo, quello della vistizione. Il simulacro della Vergine posto al centro del presbiterio del Santuario viene adornato dei monili aurei a Lei donati come ex-voto. A questa cerimonia partecipano esclusivamente i membri rappresentativi della Confraternita e il Rettore del Santuario che preparano il simulacro per la solenne processione per le strade del paese. La processione, che ha inizio alle ore 20, è aperta dai fedeli che, disposti su due file paralleli, recano in mano lunghi ceri votivi. Ad essi seguono i membri della Congregazione di San Vincenzo Ferreri con a’ Bammima, una piccola vara contenente il simulacro della Madonna, e i confrati di Maria SS. Dei Miracoli con uno stendardo azzurro. Ancora dietro il Clero e u’ baiardu, il fercolo su cui è posta la statua della Madonna trasportato a spalla. Al termine della processione il fercolo rientra al Santuario dove viene riposto al centro, dinanzi all’altare su cui sono celebrate le sacre liturgie per l’ottavario. Le celebrazioni terminano il 15 settembre con una processione identica al termine della quale il simulacro, rientrando nel Santuario, viene svestito dei monili e riposto nella nicchia in cui è custodita per l'intero anno."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/5"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "Il manoscritto di P. Giacinto Bellanca, alla fine del XVIII sec., riporta che l'8 settembre del 1540 un mendicante paralitico, a cavallo di un mulo, fermatosi a riposare su una pietra alle porte del centro abitato, al suo risveglio fu sano e libero. Il popolo, accorso per le grida di giubilo, rinvenne in un sasso l’immagine miracolosa di Maria. Il culto e la devozione alla Madonna del Miracolo fu dapprima estremamente popolare, avvalorata dal fatto che il paese di Mussomeli aveva già un Santo Patrono, San Ludovico di Tolosa. Il riconoscimento ufficiale avvenne nel 1629 con la guarigione del piccolo Don Lorenzo figlio del Conte Ottavio II che nel 1632, per grazia ricevuta, dispose di ingrandire la festa, istituendo per l’occasione una fiera di quindici giorni."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Rettore del Santuario e Congregazione di Maria SS. dei Miracoli"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Congregazione di San Vincenzo Ferreri, autorità locali, devoti, comunità locale, gruppo bandistico, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Barcellona, Isabella. 2000. Ori argenti e stoffe di Maria SS. Dei Miracoli: Mussomeli tra culto e arte. Caltanissetta: Lussografica."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di Maria Santissima dei Miracoli"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 13.7525, 37.579444444 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:ea721850-bf98-4035-98ca-4a813167dae1",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "Domenica successiva al 15 Agosto"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:aed4eba6-72a2-4130-884f-3b0ab3fb9534"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La festa si celebra la prima domenica successiva al Ferragosto e ha inizio, nella tarda mattinata, con la celebrazione eucaristica in Piazza Catena. Nel pomeriggio la statua della Madonna della Catena viene portata in processione insieme alla statua di San Michele Arcangelo. La preparazione del fercolo (vara) segue un preciso rituale: se ne occupano i portatori che hanno il compito di fissare saldamente la pesante statua marmorea al fercolo in legno mediante corde e fermi in ferro, quindi la statua viene ornata da preziose corone, poste sul capo della Madonna e del Bambino, dagli ex-voto, dal manto azzurro in stoffa, mentre sulla struttura a baldacchino della vara vengono appesi, per mezzo di nastri azzurri le offerte/ex-voto fatte in denaro, i nastri appaiono così pieni di banconote di ogni taglio. In alcune fonti è riportato che le statua di San Michele precede quella della Madonna uscendo dalla stessa chiesa, cioè da quella della Madonna della Catena, facendo così lo stesso percorso. Altre fonti invece, lasciano intendere che la statua di San Michele esce dalla Chiesa Madre in cui è custodito, percorre il centro storico di Librizzi fino a giungere alla Chiesa della Madonna della Catena, dove è atteso dai fedeli e dai portatori della Madonna, per poi procedere insieme. (E possibile che negli anni si siano prese decisioni diverse circa il punto di inzio della processione di San Michele). Alcuni devoti seguono il percorso processionale scalzi, altri portano in dono dei cesti pieni fiori. Caratteristica della processione è la rievocazione di un episodio tramandato dalla tradizione e considerato miracoloso: il prodigio della ciaramedda. Si racconta che durante il trasporto della statua da Palermo a Librizzi (la statua venne acquistata a Palermo) sul punto di compiere l'ultimo tratto su un carro trainato dai buoi, giunti in località Maisale, la statua divenne così pesante che le bestie non riuscirono ad andare avanti, fino a quando, al suono di una zampogna proveniente da un pastore nei campi, il carro riprese il suo cammino fino a destinazione. Durante le rievocazione, quindi, la processione giunge fino al luogo in cui il carro si fermò, secondo il racconto, in prossimità di un noce secolare, qui i portatori si fermano, poi piano piano indietreggiano (i portatori girano su se stessi ma continuano il passo procedendo in avanti, la statua è trasportata a ritroso). Non appena il suonatore della ciaramedda (zampogna), fa udire il suono del suo strumento, la processione riprende normalmente al grido di Viva Maria, completando il percorso con il rientro in chiesa. Viene celebrata la messa e la festa si conclude con lo sparo dei fuochi d'artificio."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/35"
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Portatori scalzi conducono a spalla la statua marmorea della Madonna della Catena.\nGiovani portatori conduco a spalla la statua lignea di San Michele Arcangelo.\nSuonatore della ciaramedda (zampogna): durante la rievocazione del fatto miracoloso, è per mezzo del suono di questo strumento che il percorso riprende."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Assessorato della Pubblica Istruzione (a cura di). 1992. Feste, Fiere, Mercati, Vol. II. Messina: Edizioni Dott. Antonio Sfameni.\n \nPrinciotta, Roberto e Nuccio Lo Castro. 1988. Itinerari gaginiani. Messina: Grafo-Editor."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di Maria SS. della Catena e S. Michele Arcangelo"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.95, 38.1 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:3d28fa67-5207-4b3e-b9f5-339bcfaeae52",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "3 Agosto"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:819e6df4-141f-47d5-826d-d10fd7af82b1"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Commemorativa, devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La Volata dell'Angelo si svolge nel terzo giorno dei festeggiamenti in onore del Santo Patrono di Adrano, Nicolò Politi, e ricorda la chiamata di Dio al giovane. Quasi al termine della processione del simulacro del Santo, intorno alle ore 20, un fanciullo vestito da Angelo è posto sulla statua all'altezza di dodici metri, sorretto tramite una corda legata da un lato al Palazzo Bianchi e dall'altro alla Chiesa Madre. Nel momento in cui è giunto molto vicino al fercolo tra la folla dei partecipanti il giovane recita la seguente ode sacra: ì Silenzio popolo. Salve, o Nicola: i secoli Ti chiameran beato! Inno immortal di gloria in ciel ti sarà cantato! A Te che fosti intrepido con l’alma e con la fé e il cor serbasti incolume dell’universo al Re. Nell’ora del perielio a te ricorreremo, nel dì della vittoria uniti a Te saremo. In questo dì solenne di gloria e di amor gridiamo uniti: viva, viva il fulgido San Nicolò Politi. Al termine il fanciullo lancia un mazzo di fiori verso il fercolo e risale in alto. Seguono di rito a questo momento di grande emozione e devozione una lunga sequenza di fuochi d'artificio."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/10"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "Tradizionalmente si ipotizza che l’evento della Volata dell’Angelo sia celebrato già dalla fine del ‘700, quando S. Nicolò Politi fu proclamato “Patrono di Adernò”. Una prima fonte scritta, un manoscritto del 1 Agosto 1887, conservato presso l’Archivio Comunale, riporta entro la programmazione delle festività di S. Nicolò, a firma del Rettore della festa, il giorno dell’evento e una breve descrizione. A maggiore conferma della storicità della manifestazione, il testo di F. Nicotra del 1907-08, in cui tra le illustrazioni di Adrano e delle sue bellezze artistiche ritroviamo una descrizione del singolare evento."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Bambini del luogo"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Clero, confraternita, comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Nicotra, Francesco. 1907. Dizionario illustrato dei Comuni siciliani. Palermo: Società editoriale del Dizionario illustrato dei Comuni siciliani."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "La Volata dell'Angelo"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.835555555, 37.6625 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:55bd6dc7-2cbe-4e4d-a4d1-c41ac3006418",
+  "type" : "PatronalFestival",
+  "hasProvince" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:36ac1210-c4e1-4cc1-a372-57ad0d9377de"
+  },
+  "date" : {
+    "type" : "Property",
+    "value" : "1-8 Settembre"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:9032e1da-86ad-4855-8e21-ae6034c36bd1"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "Santu Conu"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale/Patronale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La Festa di San Cono a Naso celebra non solo i natali del Santo, ma soprattutto i miracoli che l’abate ha compiuto dopo la sua morte. Delle feste che si celebrano a Naso in onore di San Cono, la più importante è quella del 1° settembre, quando si organizza la processione cittadina del busto del Santo portato a spalla da una decina di giovani uomini che urlano a più riprese durante il percorso in dialetto: “Na vuci viva: razzia San Cono!“(Una voce viva: grazia San Cono!). Secondo la tradizione alla processione dell’1, precedeva il 27 agosto “a fera d' 'u pilu russu” (il mercato dei buoi), e il 31 agosto \"a fera d' 'u pilu niuru\" (il mercato degli asini).\nIl culmine della festa è il 1° settembre con l'uscita del santo dalla chiesa durante spari di mortaretti, lancio di \"calia\" (ceci abbrustoliti) e alla presenza dei malati d'orecchi, dei quali il Santo è protettore e guaritore. Ai braccioli della vara sono legati i fazzoletti ex-voto inseriti per grazia ricevuta dai devoti.\nLa processione parte dalla Chiesa Madre (del XVI secolo), sita nella piazza centrale (piazza Roma), e viene portato per le vie del paese le quali, per l’occasione, sono ornate di archi, piramidi di edera e luci variopinte. Il busto termina il suo percorso nella Chiesa della Madonna della Catena della contrada Bazia, e viene riportato nella Chiesa Madre solo dopo una settimana, durante i festeggiamenti dell’Ottava di San Cono. \nAllestita con i denari versati dai devoti nel caratteristico \"coppu\", il fercolo del santo viene montato su una pesante macchina completa del Busto e delle reliquie che attraversa il paese per l'occasione ornato di archi, piramidi di edera e lampioni variopinti. Il simulacro di Cono ha un aspetto singolarmente sgradevole (\"gli occhi grandi e spaccati, il naso aquilino, le labbra grosse, la faccia... bronzina, larghissima\"), tanto da essere divenuto, secondo quanto attestano alcuni proverbi, termine di paragone per la bruttezza delle persone (\"Avi 'a facci 'i san Conu\"). Alla macchina, inoltre, si legano le spighe benedette che dovranno essere mescolate al grano da semina."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/181"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "La fama di San Cono si è divulgata per mezzo di stampe popolari come la Vita, miracoli et morti dello beato Cono da Naso, scritta nel 1549 e di cui si conosce una edizione del 1556. \nCono, o Conone Navacita nacque a Naso nel 1139, figlio del conte normanno Anselmo, governatore della città. Ancora ragazzo abbandonò la casa, le ricchezze e si ritirò nel locale convento di San Basilio. Trasferito al Convento di Fragalà, nel comune di Frazzanò, ebbe come maestri spirituali san Silvestro da Troina e san Lorenzo da Frazzanò, che lo prepararono al sacerdozio. Conone, dopo l'ordinazione, continuò a manifestare segni di vocazione all'eremitaggio e si ritirò in una grotta, che prese il nome di Rocca d'Almo. Richiamato al monastero dai suoi superiori, fu eletto abate. In seguito, al ritorno a Naso da un pellegrinaggio in Terra Santa, elargì ai poveri la ricca eredità del padre e si ritirò nella grotta di San Michele. In questo periodo si colloca il primo importante miracolo ricordato dalla comunità, ovvero la guarigione dei nasitani dal morbo. Secondo un’altra leggenda, San Cono, protesse Naso da un’incursione dei Turchi nella prima metà del XVI secolo manifestandosi dietro il Belvedere Grande del paese con le sembianze di un gigante nero con in una mano la croce e nell’altra la Sacra Bibbia. La statua del Santo, che ancora oggi viene portata in processione per le vie del paese, ritrae proprio le sembianze sopra descritte con una fascia, sul tronco, recitante: “Libera i devoti dal terremoto, dalla fame, dalla peste e dalla guerra”.\nSan Cono morì il 28 marzo 1236 e fu canonizzato nel 1630, come santo e patrono di Naso. La festa ancora oggi prevede la processione per le vie del paese delle reliquie del Santo, all’'invocazione «Na vuci viva razzi i san Conu». Il santo è invocato contro i mali degli orecchi e del naso e a questo protettorato è certamente da collegarsi la rappresentazione di tali organi (un naso fra due orecchi), inseriti nello stemma del paese e interpretati come un ammonimento del santo ai devoti di \"aver buon naso, ascoltare assai e parlar poco\"."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Autorità civili (il Sindaco) e religiose (Arcivescovo) del Comune di Naso, di Capo d’Orlando e del Comune di San Cono (CT), portatori della vara, confraternite del paese, “malati d’orecchi”."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Devoti, comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Burchi, Paolo. 1964. Cono di Naso, in Bibliotheca Sanctorum, v.IV, Roma: Istituto Giovanni XXIII della Pontificia Università Lateranense.\n \nCrimi, Giuseppe. 1890. Fra proprietari e Moni. Costumanze nasitane, in Archivio per lo studio delle tradizioni popolari.\n \nCrimi, Giuseppe. 1894. La festa di s. C. in Naso, v. XIII, pp. 379-386.\n \nMalfa, Vittorio. 1990. Note antropologiche sulla festa di san Cono in Sicilia, San Cono: Amministrazione comunale.\n \nPitrè, Giuseppe. 1979. Feste patronali in Sicilia, Sala Bolognese (BO): Editore Forni, pp. 207-211.\n \nPortale, Antonino. 1917. Brevi cenni sulla vita di S. Cono abate cittadino e patrono di Naso, Palermo: Boccone del povero.\n \nPortale, Antonino. 1936. La citta di Naso in Sicilia e il suo illustre figlio S. Cono Abate, Palermo: Tip. V. Bellotti."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Cono"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.78333377838135, 38.11666488647461 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:7977e18f-908e-4d24-80e2-bbe1c4082ded",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "1-3 Maggio: Festeggiamenti in onore dell'anniversario del miracolo della pioggia.\r\n15-18 Agosto: Festeggiamenti per il Santo Patrono (17 Agosto solennità del Dies Natalis)."
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:eedf2329-ac2f-47bd-8f40-0879758c1705"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "I festeggiamenti in onore del Santo Patrono Nicolò Politi avvengono due volte all'anno, dall'1 al 3 maggio, in occasione dell'anniversario del miracolo della pioggia che salvò la cittadina di Alcara Li Fusi da una gravissima siccità. Di norma, la festività è caratterizzata da un pellegrinaggio presso contrada \"Acqua Santa\" e da una processione per le vie della città del Simulacro e dell'Urna argentea dal 15 al 18 agosto.\nIl 15 agosto viene programmato il pellegrinaggio al Monastero del Rogato dove vengono distribuite le cosiddette \"cudduri\", ciambelle di pane realizzate per l'occasione.\nIl 16 agosto si svolge la \"Luminaria\", ossia la processione di una reliquia di San Nicolò Politi.\nIl giorno del dies natalis, il 17 agosto, alla solenne celebrazione liturgica fa seguito la grande processione del Simulacro del Santo Eremita e dell'Urna argentea che custodisce la sue spoglie mortali.\nIl 18 agosto, nel giorno del ritrovamento del corpo, si effettua un pellegrinaggio a piedi fino al luogo del rinvenimento: la grotta del monte Calanna dove visse il Santo e intorno alla quale ora sorge una chiesetta.\nInfine nella tarda serata e in tutti i quartieri viene recitata in versi la vita del Santo e, nella Chiesa Madre del paese, \"u pirdunu\". Infine, a seguire, la suggestiva conservazione \"du Santu\"."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/185"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "La tradizione narra che il Santo nacque da una famiglia nobile di Adernò, oggi Adrano in provincia di Catania, intorno all'anno 1117. I genitori Almidoro e Alpina, avanzati in età, non potendo avere figli, si recarono in pellegrinaggio ad Alcara, cittadina del messinese, in occasione della festa del Santo Nicolò di Mira, promettendo al Santo Vescovo di votare il figlio in suo onore. Nacque così Nicolò Politi, unico erede della ricca famiglia. Crebbe educato con fervidi principi religiosi, conducendo un percorso di crescita spirituale e maturando la volontà di dedicare la propria vita alla preghiera in isolamento. Si distaccò definitivamente dal mondo materiale dopo uno scontro acerrimo con il padre, che aveva visto per il figlio un futuro diverso, organizzandogli il matrimonio con una giovane ragazza di pari rango. Dopo un lungo peregrinare tra stenti, giunse in prossimità della cittadina di Alcara e iniziò a frequentare il monastero di Santa Maria del Rogato. Lì dimorava padre Cusmano di Alcara, monaco che, per la sua profondità spirituale, veniva nominato \"il teologo\". È padre Cusmano a raccontare nella sua biografia un avvenimento miracoloso attribuibile a Nicola Politi. L'eremita, giunto in una distesa arida, invocò l'aiuto di Dio per lenire la sua sete e, percossa una pietra con il bastone, fece sgorgare in quel luogo una sorgente capace anche di guarire le malattie. La sorgente, oggi inglobata in una cappella, fu, sin dalle origini, meta di costanti pellegrinaggi. Nel lontano 1137 il Santo stabilì la sua dimora in una grotta solitaria del monte Calanna, non molto distante dalla sorgente miracolosa, e vi rimase fino alla sua morte, avvenuta trent'anni dopo.\nIl 17 agosto 1167 un pastore, recatosi nel luogo della grotta alla ricerca di un bue smarrito, trovò il corpo dell'eremita in ginocchio, con le mani attaccate al bastone e gli occhi rivolti al cielo. Preso dallo sgomento, toccò il corpo dell'uomo e al tatto gli si paralizzò il braccio. Fu così che intese che doveva trattarsi di un uomo santo e corse a divulgare la notizia all'arciprete del posto. Venne organizzata una processione presso il luogo del ritrovamento e, quando, in modo altrettanto miracoloso, il braccio del pastore guarì, il corpo del santo divenne oggetto di venerazione. Trasportato su una bara nel paese, giunto nei pressi della chiesa di Sant'Ippolito, il feretro divenne pesantissimo, tanto da costringere la sospensione della processione e la deposizione della stessa a terra. Vani furono i tentativi di trasportare il corpo, fino a quando un fanciullo gridò di trasportarlo al monastero di Santa Maria del Rogato. Solo allora la bara divenne nuovamente leggera, consentendone il trasporto nel logo indicato. Lì il corpo venne riconosciuto da padre Cusmano, confessore del Santo, che, vista l'eccezionalità del ritrovamento, raccolse e raccontò i fatti straordinari della vita dell'asceta. Il corpo del Santo rimase nel monastero per ben 336 anni, oggetto di culto dei fedeli, fino a quando nel 1503 il popolo alcarese, flagellato da una lunghissima siccità, in supplicante preghiera, si recò al Rogato per implorare l'intercessione del santo che non tardò ad arrivare. La popolazione gridò al miracolo."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Comitato organizzativo della festa"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Comunità locale, devoti, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "De Maria, Gaetano. 2006. L'origine del Valdemone nella Sicilia Bizantina. Sant'Agata di Militello.\n \nDi Bella, Salvatore. 2000. Alcara Li Fusi. La Chiesa Madre: la cultura artistica, Messina: Società messinese di storia patria.\n \nMorelli, Gaetano. 1967. Alcara Li Fusi. Storia, leggende, tradizioni varie. Messina: Tip. Ditta D'Amico.\n \nMorelli Gaetano. 1967. San Nicolò Politi, Patroni di Alcara. Messina: Tipografia D'Amico.\n \nLuongo, Gennaro, a cura di. 2000. Erudizione e devozione. Le raccolte di Vite di santi in età moderna e contemporanea. Roma: Viella."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa in onore di San Nicolò Politi"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.7, 38.016666666 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:c276dd01-726c-47f4-80cd-ee0493030de7",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "Pellegrinaggio e processione dei ramara: dal giovedì sera della penultima domenica di Maggio alla penultima domenica di Maggio.\n\r\nPellegrinaggio e processione-corteo dei ddarara: dal venerdì dell'ultima domenica di Maggio fino all'ultima domenica di Maggio.\n\r\nProcessione della vara: sabato precedente la prima domenica del mese di Giugno.\n\r\nLa Cubbaita: la prima domenica di Giugno."
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:d629f0d8-b60d-4843-ad34-809a66209b6b"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "San Suvviestu"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "Il Festino di San Silvestro si annovera tra le feste dell'alloro. Caratterizzato dal rituale del pellegrinaggio, della raccolta e della processione devozionale, è proprio  attraverso il gesto della raccolta che il fedele scioglie il voto in precedenza contratto con il Patrono. Il pellegrinaggio e la processione si ripetono per due settimane successive con modalità lievemente diverse. Il primo pellegrinaggio, quello dei ramara (ossia portatori di rami), si svolge a piedi; il secondo, quello degli ddarara (portatori di ddauru, alloro), viene invece percorso a dorso di muli e cavalli.\nProcessione e processione dei ramaraGiovedì sera i ramara si radunano nella piazza antistante la chiesa di San Silvestro e, salutati da una grande folla, partono alla volta del luogo di raccolta della pianta cara al Santo, sita nei pressi del paese di San Fratello, distante da Troina diverse decine di chilometri. La lunga teoria di fedeli, preceduta da due suonatori di tamburo provenienti dal vicino paese di Cerami, procede levando canti devoti, lamenti e nuveni, mentre i più anziani intonano le cosiddette struffiati.Alle prime luci dell'alba del giorno seguente, i pellegrini giungono in una radura dove impiantano un campo base. Dopo essersi riposati e rifocillati, i più dotati fisicamente, selezionati a seguito di una conta, si avventurano con funi e bastoni nel fondo della valle alla ricerca dell'alloro, accompagnati da uno dei tamburini, che si scambia messaggi sonori con l'altro rimasto nel campo. Ultimata la raccolta i tuccaturi u ddauru si avviano presso il campo.All'alba dell'indomani, esattamente il sabato, i pellegrini ripartono in direzione di Troina, recando ognuno il proprio ramo in mano e secondo l'ordine di anzianità dei partecipanti. In prossimità del ponte Faidda, sul fiume Troina, la popolazione accoglie i fedeli di ritorno dai boschi con un rituale scambio di doni: i ramara offrono i ramoscelli di alloro raccolto in cambio dei cibi votivi, detti prumisioni, che consistono in una sorta di biscotti detti anche ambasciateddi e curuzzi.La domenica mattina i ramara si trovano al Piano delle Giumente per dare vita alla processione dei rami, scandita dalla giaculatoria \"Viva Ddiu e San Silvestru, e lu Patriarca San Ciuseppi, e lu Santissimu sacramentu\". Giunti nella chiesa di San Silvestro i ramara “presentano” il viaggio al Patrono e, terminata la funzione religiosa, accompagnano in processione il vessillo del Santo alla casa del Procuratore della confraternita, detto u massaru. \nPellegrinaggio e processione -corteo dei ddararaSimile, nei suoi momenti essenziali, è il pellegrinaggio dei ddarara, che ha inizio il venerdì successivo alla processione dei ramara.A differenza dei primi, i ddarara si recano in pellegrinaggio a dorso di muli e cavalli in un bosco nei pressi della città di Capizzi. Raggiunto il luogo della raccolta, un gruppo si reca a piedi a tuccari u ddauru. Raccolto l'alloro ci si ritrova tutti al campo a bere e mangiare. Il gruppo riparte il giorno successivo, la mattina presto del sabato, e, nel primo pomeriggio, i cavalieri e il loro carico giungono, come i ramara, in prossimità del ponte Faidda, sul fiume Troina, dove la popolazione li accoglie con le prumisioni. L'indomani, domenica, alle ore 10:00, i cavalieri si radunano presso il Piano delle Giumente con le loro cavalcature bardate a festa con giummi, sonaglietti e fascioni decorati con l'immagine del Santo. La processione inizia verso le 10:30 e il corteo si dispone in maniera ordinata. Caratteristica è la presenza di un nutrito gruppo di bambine con la camicetta bianca e il fazzoletto rosso dei ddarara, che si sistema su due file.  L’introduzione delle giovinette nel corteo è relativamente recente.Il percorso processionale è identico a quello della domenica precedente. Giunti alla chiesa di San Silvestro, accolti da un festante scampanio, tutti i partecipanti al rito entrano in chiesa e portano a termine il percorso già descritto, offrendo il ramo al Santo.\nProcessione con la reliquia del SantoIl sabato precedente e la prima domenica di giugno si svolge la processione con le reliquie di San Silvestro. Il tutto prende avvio dalla Chiesa Madre alla Chiesa di San Silvestro (la discesa). La vara settecentesca, portata in processione, è ricoperta di lamine d'argento, mentre il simulacro del Patrono lo raffigura nell'atto di benedire.\nLa Cubbaita o CavalcataLa prima domenica di giugno si svolge la cosidetta \"Cubbaita\", una cavalcata storica che rievoca l'entrata a Troina di Carlo V nel 1535. Le prime edizioni della manifestazione risalirebbero, pertanto, a più di quattro secoli fa. Un gruppo di cavalieri in costumi spagnoleggianti aprono il corteo e precedono i tre protagonisti della cavalcata:  tre cavalieri vestiti con ricchi costumi cinquecenteschi e su cavalli bardati finemente. I tre personaggi vestono un costume identico, differente solo nella colorazione dell'abito: uno è rosso-granato, uno blu e uno verde.Ogni cavaliere porta con sé una bisaccia piena di torroni e dolciumi, che verranno successivamente distribuiti alla folla di partecipanti.Il Festino si conclude con la processione della reliquia e della statua (la salita), che segue il percorso inverso dalla Chiesa di San Silvestro alla Chiesa Madre."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/187"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "Pitrè, noto scrittore e antropologo italiano, nel suo volume \"Feste patronali in Sicilia\", narra le vicende storiche di San Silvestro di Troina.\nMonaco dell'Ordine di San Basilio, Silvestro vestì il saio cenobita sotto Ruggero il Normanno e Roberto, suo cognato, primo vescovo di Troina. Vissuto tra l'XI e il XII sec., il religioso divenne illustre per i miracoli che elargì alla sua città liberandola più di una volta dal flagello della peste. Dai poteri taumaturghi la leggenda narra anche che, riluttante alla nomina di abate, \"si ritirò romito in una selva circostante all'antica chiesa di S. Bartolomeo, ove, ignoto a tutti visse, e morto rimase ignorato\". \nIl 1° maggio 1420, due secoli e mezzo dopo la morte del Santo (1164), continua G. Pitrè, due giovani cacciatori lentinesi videro un bellissimo falcone decidendo di rincorrendolo per molte miglia fin nei pressi del bosco di S. Bartolomeo di Troina. Sul calar della notte, l’animale fu perso di vista. Stanchi, i cacciatori si adagiarono nella chiesetta di S. Bartolomeo, ma rimasero scossi da un evento eccezionale: una grotta poco distante venne illuminata da una luce che irradia tutto introno fino a spegnersi, confondendosi con il buio della notte. Presi dallo sgomento per la meravigliosa visione, il giorno dopo, i due si recarono nella vicina città di Troina, narrando alla popolazione e ad esponenti del clero l’evento straordinario a cui avevano assistito. Incuriositi, si recarono tutti nel luogo del prodigio e rimuovendo la pietra, che impediva l'ingresso alla grotta, trovarono al suo interno, ancora coperte dalla veste basiliana, le spoglie del monaco Silvestro. In quello stesso istante la popolazione lo inneggiò a patrono del Comune.\n \nSecondo il Lexicon Topographicum Siculum di Vito Amico, redatto nel 1785, e come riportato dallo stesso G. Pitrè, gli abitanti di Troina festeggiavano il Santo due volte l'anno, portando in processione il simulacro contenuto in una bara d'argento. Tuttavia la festività principale del 2 Maggio, per ragioni politiche, fu spostata alla prima domenica di giugno, preceduta e seguita da una fiera del bestiame annoverata tra le \"prime nel genere in Sicilia\".\nTra le ordinarie cerimonie religiose e civili, una in particolare merita menzione: la cavalcata tradizionale o Cubbaita. Il termine cubbàita deriva dall'arabo qubbiat, mandorlato, e indica ancora oggi, una sorta di torrone introdotto in Sicilia dagli Arabi, preparato con mandorle o semi di sesamo (giuggiolena) e miele, solitamente tagliato a rombi di piccola pezzatura ed involtato con la carta. Quest’ultima caratteristica faceva sì che tale dolce si presentasse adatto per essere lanciato dai cavalieri durante la cavalcata storica. Secondo gli studi di antropologia, sarebbe proprio da ciò che deriverebbe il nome del dolce che attribuito anche alla storica cavalcata.\nUn gruppo di trenta giovani, armati di schioppo in groppa a magnifici cavalli, seguivano tre cavalieri, vestiti come paladini e recanti in mano mazzi di fiori da donare alle signore, tutti si fanno strada tra la folla radunata in via Conte Ruggero, centro culminante del paese. Giunti all'altra estremità della strada, il gruppo di giovani armati si allontana lasciando i tre cavalieri, che seguiti dai palafrenieri, passeggiano tra la folla distribuendo torrone e confetti alla popolazione che si accalcava per raccogliere qualche confetto.\nGià nel 1876 G. Pitrè racconta che la popolazione dei quartieri si riuniva a cavallo recandosi nel vicino bosco per raccogliere ciascuno un ramo di alloro. Una volta raccolto tornavano a Troina a coppia e, giunti innanzi alla chiesa del Santo, spiccavano un ramoscello gettandolo sulla porta, facendo ritorno con il ramo in mano ormai benedetto. Poeti di quartiere si fermavano, inoltre, davanti alla chiesa per celebrare la vita del santo Patrono.\nLa festa di San Silvestro è, tra le feste dell'alloro, l'unica in cui si osserva la duplicazione del rito all'interno della stessa festa. La spiegazione della divisione della stessa in due momenti assai ravvicinati e fondamentalmente analoghi, viene ricondotta all'antica distinzione tra i due ceti dei iurnatara e massara che prendevano parte rispettivamente al pellegrinaggio dei ramara e dei ddarara. Tale distinzione partendo da ragioni prettamente economiche, poiché il ceto meno abbiente dei iurnatara non possedeva cavalcatura, voleva anche sottolineare il prestigio sociale dei massarara rispetto ai primi."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Massaro dei rami che si occupa di vari aspetti organizzativi, come reperire i fondi necessari all'organizzazione della festa; la confraternita che prende parte al completo solo alla processione della vara, che si svolge la prima domenica di giugno; la commissione del festino di San Silvestro."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Devoti, comunità locale, turisti"
+  },
+  "filmography" : {
+    "type" : "Property",
+    "value" : "Lu principiu di li fiesti, di Giuseppe Calabrese, 83', 2014"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Buttitta, Igrazio Emanuele. 2006. Feste dell'alloro in Sicilia. Palermo: Fondazione Ignazio Buttitta.\n \nCollura, Matteo. 2008. Sicilia sconosciuta: Itinerari insoliti e curiosi. Milano: Rizzoli,.\n \nGiansiracusa, Paolo. 1999. Troina civitas vetustissima. Troina: Oasi."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festino di San Silvestro"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.6, 37.783333333 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:dd2500b0-13cd-45f9-a11b-640dd0fd8210",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "Dal 19 al 29 Agosto"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:adbc0c22-a8b8-4c4f-a54c-7891254f59ed"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Celebrativa/Devozionale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "La Festa in onore di San Giovanni Battista, patrono della città e della diocesi di Ragusa, si svolge il 29 agosto, data del suo martirio. I solenni festeggiamenti hanno però inizio il 19 agosto con l’apertura della nicchia del Santo e la traslazione del simulacro. \nI giorni che vanno dal 19 al 29 agosto sono ricchi di manifestazioni culturali, artistiche e sportive.\nLa sera del 26 agosto le sacre reliquie del Battista vengono portate in processione per le vie della città; San Giovanni riabbraccia così i suoi devoti fino all’arrivo in una parrocchia che Lo ospiterà con canti, liturgie e veglie di preghiera. Poi, la sera del 28, ritornerà in Cattedrale. \nIl 29 agosto la città si stringe nuovamente intorno al suo Santo con una chilometrica processione di ceri, retaggio forse della luminaria che aveva luogo durante il XVII secolo ad Ibla. In essa traspare il silenzio, la preghiera e una grande devozione visibile nei fedeli scalzi o con indumento rosso in segno di un voto o grazia ricevuta. Essi percorrono le vie del centro storico insieme all’Arca Santa, precedendo il simulacro di San Giovanni che viene portato in processione per le strade iblee al grido di Patronu Viva, accompagnata dalla banda musicale. Questo, oltre ad essere un grande momento di devozione religiosa e di rinnovo delle tradizioni della città, è anche uno spettacolo davvero unico, proprio perché migliaia di fedeli, molti a piedi scalzi, accompagnano il fercolo del Santo portando dei grossi ceri accesi per grazia ricevuta. Al termine della solenne processione, a conclusione dei festeggiamenti, si svolge un incantevole spettacolo pirotecnico.\nInoltre, il 24 giugno, giorno della natività del Battista, vengono anticipati in maniera liturgica i solenni festeggiamenti di agosto. Anche in questo caso, i festeggiamenti hanno inizio nove giorni prima, la sera del 15 giugno, con un momento solenne e significativo: dopo i Vespri e la Santa Messa, si ha lo scampanio a festa delle campane, il raduno dei portatori, l’apertura della nicchia e l’esposizione sull'altare maggiore del simulacro di pietra risalente al 1513, chiamato u niviru; seguono momenti di preghiere."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/196"
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Devoti, comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "D’Agostino, Gabriella. 1991 Arte popolare in Sicilia: le tecniche, i temi, i simboli. Palermo: Flaccovio.\n \nFonte, Mario. 2001. Il folklore religioso in Sicilia. Catania: Edizioni Greco."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa patronale di S. Giovanni Battista"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.75, 36.93333435058594 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:f10de1dc-508d-4a0f-9224-82379f42f494",
+  "type" : "PatronalFestival",
+  "date" : {
+    "type" : "Property",
+    "value" : "Ultima domenica di Maggio (anche se da calendario si svolgerebbe il 23 Aprile)"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:adbc0c22-a8b8-4c4f-a54c-7891254f59ed"
+  },
+  "nativeName" : {
+    "type" : "Property",
+    "value" : "Scinnuta e Abballariata"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "Devozionale/Patronale"
+  },
+  "description" : {
+    "type" : "Property",
+    "value" : "Le notizie storiche sulla festa di S. Giorgio a Ibla risalgono al XVI secolo. L'evento celebrativo è caratterizzato da una lunga serie di festeggiamenti dedicati al Santo che si svolgono in una atmosfera di allegria e di trionfo espressa nella tradizionale abballariata. La processione viene aperta dagli stendardi delle varie confraternite iblee, ciascuna presente con costume tradizionale, accompagnata da luci, musiche e suoni, giochi pirotecnici e spettacoli. Sul calendario romano la festa del santo ricade il 23 aprile, ma i festeggiamenti si svolgono sempre l’ultima domenica di maggio oppure anche agli inizi di giugno (come negli ultimi due anni).\nIl rito si suddivide in più azioni volte a celebrare il Santo: la domenica prima del 23 aprile si tiene la spettacolare traslazione o scinnuta del simulacro di San Giorgio e dell’Arca Santa all’interno del duomo di Ragusa; durante il triduo di fine maggio si tengono: il Corteo Storico, che rievoca la battaglia del santo contro il Drago con un grande carro allegorico in cui compaiono i protagonisti della vicenda; la processione del venerdì, quando San Giorgio e l’Arca Santa escono dal Duomo per raggiungere la Chiesa del Purgatorio, situata nella zona della Piazza Repubblica, sita all’ingresso di Ibla, dove rimane l'arca santa mentre il simulacro di S. Giorgio viene invece collocato all’interno della chiesa di S. Tommaso, vicino ai giardini iblei; la processione del sabato, che riparte da S. Tommaso con il simulacro e prosegue fino al Purgatorio dove viene prelevata l’arca santa, così da poter ritornare insieme al Duomo; la domenica, tutta la città vive intorno al suo patrono e dopo la Santa Messa nel pomeriggio cresce l’attesa per “l’uscita”, preceduta dalle bande comunali e dagli sbandieratori che introducono l'abballariata e la processione principale, solenne, accompagnata dalle confraternite con i vari stendardi e i gonfaloni di Comune e Provincia. Ai Giardini Iblei i portatori della vara caricano sulle spalle il Patrono lasciando il carro, e portandolo a braccia, proseguono verso Piazza Duomo lo faranno ballare come tradizione, anche issandolo in alto a braccia tese, urlando continuamente Tutti Truonu! che sta a significare che è lui il Patrono della città. I giochi pirotecnici chiudono i festeggiamenti.\nCaratterizzata dalla processione che si articola per le strade di Ibla, la statua del cavaliere (rappresentato a cavallo, vestito come un antico soldato, armato di una lancia d'argento mentre affronta e uccide un terribile drago) viene portata a spalla dai fedeli e seguita da una folla di devoti."
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/197"
+  },
+  "historical_note" : {
+    "type" : "Property",
+    "value" : "San Giorgio (Cappadocia, 275-285 circa – Nicomedia, 23 aprile 303) è il santo martire cristiano venerato da quasi tutte le Chiese cristiane che ne ammettono il culto. La sua storia ci è pervenuta da un testo antico chiamato “Passio Georgi”, considerato un’opera apocrifa secondo il “Decretum Gelasianum” del 496 d.C. del Papa Gelasio I. In famiglia entrambi i genitori lo educano alla religione cristiana fino all’anno in cui Giorgio intraprende la carriera militare come ufficiale delle milizie. Si trasferisce in Palestina, dove viene arruolato nell’esercito dell’imperatore Diocleziano. Giorgio rinnegò la religione pagana (politeista) per difendere il culto cristiano e a causa di ciò venne martirizzato dopo aver subito sanguinarie punizioni.\nIn Sicilia molti comuni sono legati al culto del santo martire della Chiesa: ricordiamo Agrigento, Barcellona Pozzo di Gotto, Caccamo, Modica, Calatabiano, Messina, Monreale, Enna, Palermo e Ragusa Ibla.\nEsistono diverse rappresentazioni della figura di San Giorgio: in piedi, seduto su un trono, a mezzobusto o a cavallo nell’atto di trafiggere il drago, spesso anche attorniato da immagini raffiguranti la vita e il martirio. La rappresentazione più diffusa a Ragusa è quella del cavaliere che impugna la lancia o la spada, con lo scudo raffigurante la Croce ricurva, nell’atto di trafiggere il drago.\nLa storia della festa di S. Giorgio ha origini molto antiche nella città di Ragusa, essendo già patrono della cittadina prima del 1693, anno del terremoto che sconvolse l’intera Sicilia orientale, quando la città di Ragusa era composta solamente dal quartiere barocco di Ibla. Dopo il 1693, con la creazione del nuovo centro abitato di Ragusa Superiore, si diffuse il culto di San Giovanni Battista, solenne festa di popolo, celebrata a Ragusa nel novenario dal 20 al 29 agosto. Da quel momento Ragusa si è divisa tra Sangiorgiari (sostenitori della priorità del culto di San Giorgio di Ibla) e Sangiovannari (sostenitori della priorità del nuovo culto di San Giovanni di Ragusa). Se da un lato la festa di S. Giovanni è più raccolta e più religiosa, la festa del cavaliere Giorgio è sicuramente più ricca di tradizione popolare e folklore, è la festa dei fuochi pirotecnici, della ballata del santo, degli spettacoli musicali e anche del cosiddetto “martiriu”."
+  },
+  "actor" : {
+    "type" : "Property",
+    "value" : "Autorità civili (il Sindaco) e religiose (Vescovo della Diocesi di Ragusa), portatori della vara, confraternite del paese, figuranti del corteo storico."
+  },
+  "participants" : {
+    "type" : "Property",
+    "value" : "Devoti, comunità locale, turisti"
+  },
+  "bibliography" : {
+    "type" : "Property",
+    "value" : "Cirnigliaro, Nino, a cura di. 2003. San Giorgio Martire. Il culto e la tradizione a Ragusa e nel mondo. Ragusa, Duomo di Ragusa."
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa patronale di San Giorgio martire"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "Annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.75, 36.93333435058594 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:4bd5e01f-6fe4-47b6-869f-2033a1a7faed",
+  "type" : "PatronalFestival",
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:adbc0c22-a8b8-4c4f-a54c-7891254f59ed"
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/221"
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa della Madonna neve di Giarratana"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.75, 36.93333435058594 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:3156d961-3d60-457d-8c72-7295f28b12c6",
+  "type" : "PatronalFestival",
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:c852e5eb-7d9e-45cb-97fd-835f35ed161d"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "devozionale"
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/228"
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festino di santa Rosalia"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 13.35166645050049, 38.11111068725586 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:527f2f21-e590-4f4d-b4d6-07108c78ce6c",
+  "type" : "PatronalFestival",
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:066d2317-68d4-4ee1-a465-06e850b5022e"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "devozionale"
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/241"
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Giacomo"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.483333333, 37.85 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:573a5976-b05c-4b5f-b87a-1da3dd12cda8",
+  "type" : "PatronalFestival",
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:4dcb6313-3c82-4d61-8a5d-71d040cd86a1"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "devozionale"
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/242"
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di Sant'Antonio Abate"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 15.066666666, 37.616666666 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:65f6dcc3-ef67-4cf1-91c1-6a79460bce08",
+  "type" : "PatronalFestival",
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:34a67976-766a-424d-adff-ee9a4df9b13c"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "devozionale"
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/244"
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Bartolomeo Apostolo"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.955442, 38.467281 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:96327033-9fb5-48be-9482-3bf0d1ec4cfb",
+  "type" : "PatronalFestival",
+  "hasProvince" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:adbc0c22-a8b8-4c4f-a54c-7891254f59ed"
+  },
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:8ba22122-4c52-47bd-ae83-c042545ad294"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "devozionale"
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/245"
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Bartolomeo Apostolo"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.80000019073486, 37.04999923706055 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:c9a4bc74-1105-4545-93b5-9146cc7736da",
+  "type" : "PatronalFestival",
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:b25fd7e3-890f-4cdc-b831-9f71a4bd304a"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "devozionale"
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/253"
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa patronale della Madonna della Milicia"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 13.550277777, 38.042222222 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:1ba533ba-d474-47c8-896a-1824ab77cc6d",
+  "type" : "PatronalFestival",
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:36ac1210-c4e1-4cc1-a372-57ad0d9377de"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "devozionale"
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/261"
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Nicola"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 15.55416679382324, 38.19361114501953 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:c715ec76-3c6e-412b-9a29-65be9c7c66d2",
+  "type" : "PatronalFestival",
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:a1589d00-748f-4897-943a-40e65c40fea3"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "devozionale"
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/263"
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di San Vito martire e Processione dell'Alloro"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 14.633333333, 37.65 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+}, {
+  "id" : "urn:ngsi-ld:PatronalFestival:2cbd9898-c615-4d23-af92-517e95c19b9c",
+  "type" : "PatronalFestival",
+  "isLocatedAt" : {
+    "type" : "Relationship",
+    "object" : "urn:ngsi-ld:City:a676b9a0-ea6a-4fd9-9a8a-57fbcba373be"
+  },
+  "purpose" : {
+    "type" : "Property",
+    "value" : "devozionale"
+  },
+  "website" : {
+    "type" : "Property",
+    "value" : "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/264"
+  },
+  "name" : {
+    "type" : "Property",
+    "value" : "Festa di Santa Venera di Acireale"
+  },
+  "recurrence" : {
+    "type" : "Property",
+    "value" : "annuale"
+  },
+  "location" : {
+    "type" : "GeoProperty",
+    "value" : {
+      "type" : "Point",
+      "coordinates" : [ 15.165555555, 37.6125 ]
+    }
+  },
+  "@context" : [ "https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld" ]
+} ]
