@@ -18,6 +18,17 @@ Data model: NGSI-LD
 Custom JSON-LD [context_sichelia.jsonld](https://github.com/dahliaspinoff/sichelia/tree/main/sicilia_open_data/sichelia_ngsi_ld)
 
 
+### Data Retrieval 
+To retrieve the **Patronal Festival** entities in JSON-LD format from the NGSI-LD broker, use the following HTTP request:
+
+```bash
+curl -X GET "https://datahighway.netsenseweb.com/federation/sichelia/ngsi-ld/v1/entities?type=PatronalFestival" \
+  -H "Accept: application/ld+json" \
+  -H "x-api-key: YOUR_API_KEY" \
+  -H "Link: <https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld>; \
+rel=\"http://www.w3.org/ns/json-ld#context\"; type=\"application/ld+json\""
+
+____________________________________________________________________________________
 ### Notes
 
 Some attributes may be optional or missing depending on the original data source.
