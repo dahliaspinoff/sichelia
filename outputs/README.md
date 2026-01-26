@@ -14,4 +14,4 @@ Standard: JSON-LD
 Data model: NGSI-LD
 
 ## Context
-Custom JSON-LD [context](!sichelia) 
+Custom JSON-LD [context_sichelia.jsonld](https://github.com/dahliaspinoff/sichelia/tree/main/sicilia_open_data/sichelia_ngsi_ld)
