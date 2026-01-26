@@ -27,8 +27,8 @@ curl -X GET "https://datahighway.netsenseweb.com/federation/sichelia/ngsi-ld/v1/
   -H "x-api-key: YOUR_API_KEY" \
   -H "Link: <https://raw.githubusercontent.com/dahliaspinoff/sichelia/refs/heads/main/sicilia_open_data/sichelia_ngsi_ld/context_sichelia.jsonld>; \
 rel=\"http://www.w3.org/ns/json-ld#context\"; type=\"application/ld+json\""
-
-____________________________________________________________________________________
+```
+_______________________________________________
 ### Notes
 
 Some attributes may be optional or missing depending on the original data source.
