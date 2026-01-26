@@ -14,4 +14,4 @@ Standard: JSON-LD
 Data model: NGSI-LD
 
 ## Context
-Custom JSON-LD context 
+Custom JSON-LD [context](!sichelia) 
