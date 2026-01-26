@@ -16,3 +16,12 @@ Data model: NGSI-LD
 
 ## Context
 Custom JSON-LD [context_sichelia.jsonld](https://github.com/dahliaspinoff/sichelia/tree/main/sicilia_open_data/sichelia_ngsi_ld)
+
+
+### Notes
+
+Some attributes may be optional or missing depending on the original data source.
+
+### Extraction Date
+
+The data was extracted on: 2026-01-26.
