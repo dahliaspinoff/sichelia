@@ -4,7 +4,7 @@ SICHELIA is a project aimed at enhancing and enabling interoperability of Sicili
 
 ## Project Objectives
 
-- Retrieval and conversion of Open Data published on the Open Data portal of the Sicilian Regional Government.
+- Retrieval and conversion of Open Data published on the [Open Data portal of the Sicilian Regional Government](https://dati.regione.sicilia.it).
 - Semantic enrichment of datasets with additional metadata (e.g., geographic coordinates, related cultural entities, semantic categories).
 - Linking (Linked Data) to external sources such as DBpedia, Wikidata, and domain ontologies.
 - Transformation into NGSI-LD to support intelligent and interoperable applications in the smart city amd smart tourism domain.
