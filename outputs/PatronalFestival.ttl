@@ -1,0 +1,111 @@
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/245> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/082-082004> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/253" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa patronale della Madonna della Milicia" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa patronale della Madonna della Milicia" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/113> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/087-087011> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/12" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa di San Giacomo" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa di San Giacomo" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/233> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/083-083008> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/241" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa di San Giacomo" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa di San Giacomo" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/237> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/088-088004> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/245" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa di San Bartolomeo Apostolo" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa di San Bartolomeo Apostolo" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/66> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/087-087019> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/13" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa Sant'Antonio da Padova" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa Sant'Antonio da Padova" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/142> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/083-083035> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/33" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa di San Nicola di Bari" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa di San Nicola di Bari" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/143> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/083-083035> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/34" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Nocciolata" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Nocciolata" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/236> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/083-083041> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/244" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa di San Bartolomeo Apostolo" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa di San Bartolomeo Apostolo" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+	
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/163> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/083-083039> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/35" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa di Maria SS. della Catena e S. Michele Arcangelo" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa di Maria SS. della Catena e S. Michele Arcangelo" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty>.
+	
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/116> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/083-083048> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/36" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa dell'Assunta" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa dell'Assunta" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/117> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/083-083048> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/37" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa della Madonna della Lettera" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa della Madonna della Lettera" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+	
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/253> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/083-083048> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/261" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa di San Nicola" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa di San Nicola" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+	
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/98> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/087-087029> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/16" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa di Sant'Antonio Abate" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa di Sant'Antonio Abate" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+	
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/181> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/083-083060> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/181" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa di San Cono" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa di San Cono" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+	
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/100> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/087-087030> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/18" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa Santa Anastasia" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa Santa Anastasia" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
+
+<https://dati.regione.sicilia.it/data/intangible-cultural-property/150> <https://dati.regione.sicilia.it/onto/regionesiciliana/hasFeatureLocation> <https://dati.regione.sicilia.it/data/feature-location/085-085012> ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/webPageLink> "https://reis.cricd.it/index.php/index.php/reisicilia/details/2/5" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/hasCulturalPropertyType> <https://dati.regione.sicilia.it/data/cultural-property-type/6595a1a4037c93fc9fcba4a43b105018> ;
+	<http://www.w3.org/2000/01/rdf-schema#label> "Festa di Maria Santissima dei Miracoli" ;
+	<https://dati.regione.sicilia.it/onto/regionesiciliana/name> "Festa di Maria Santissima dei Miracoli" ;
+	a <https://dati.regione.sicilia.it/onto/regionesiciliana/IntangibleCulturalProperty> .
