@@ -42,4 +42,9 @@ The original files were processed for:
 
 ---
 
+##  Project Structure and Context
+The folder `sichelia_ngsi_ld` contains the core semantic assets of the project. Specifically, you will find the **JSON-LD Context** files used to map the datasets to international standards, ensuring that all entities are fully compatible with the NGSI-LD specification.
+
+---
+
 >  **Note**: The data is released by the Sicilian Region under the **Creative Commons Attribution (CC BY)** license. Users must provide appropriate credit to the original source (Regione Siciliana) when using or redistributing this data. For specific terms of use, please refer to the official portal links provided above.
